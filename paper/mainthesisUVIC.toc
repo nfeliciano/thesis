@@ -8,15 +8,20 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Problem Statement}{2}
 \contentsline {section}{\numberline {1.2}Motivation?}{3}
-\contentsline {section}{\numberline {1.3}Research Questions}{3}
-\contentsline {section}{\numberline {1.4}Framework}{3}
-\contentsline {section}{\numberline {1.5}Research Approach}{3}
-\contentsline {section}{\numberline {1.6}Thesis Organization}{4}
-\contentsline {chapter}{\numberline {2}Background}{5}
-\contentsline {section}{\numberline {2.1}The Social Aspect}{6}
-\contentsline {section}{\numberline {2.2}The Contributing Student}{7}
-\contentsline {section}{\numberline {2.3}Tools and Supporting Technology}{8}
-\contentsline {section}{\numberline {2.4}Evolving the Learning Tool}{10}
-\contentsline {chapter}{\numberline {3}Methodology}{13}
-\contentsline {subsection}{\numberline {3.0.1}Research Questions}{13}
-\contentsline {subsection}{\numberline {3.0.2}Study Design}{14}
+\contentsline {section}{\numberline {1.3}Research Questions}{4}
+\contentsline {section}{\numberline {1.4}Research Approach}{4}
+\contentsline {section}{\numberline {1.5}Thesis Organization}{5}
+\contentsline {chapter}{\numberline {2}Background}{6}
+\contentsline {section}{\numberline {2.1}The Social Aspect}{7}
+\contentsline {section}{\numberline {2.2}The Contributing Student}{8}
+\contentsline {section}{\numberline {2.3}Tools and Supporting Technology}{9}
+\contentsline {section}{\numberline {2.4}Evolving the Learning Tool}{11}
+\contentsline {chapter}{\numberline {3}Methodology}{14}
+\contentsline {subsection}{\numberline {3.0.1}Research Questions}{14}
+\contentsline {subsection}{\numberline {3.0.2}Study Design}{15}
+\contentsline {chapter}{\numberline {4}The Instructor Perspective}{16}
+\contentsline {chapter}{\numberline {5}The Student Perspective}{17}
+\contentsline {section}{\numberline {5.1}Research Design}{18}
+\contentsline {subsection}{\numberline {5.1.1}Participants}{19}
+\contentsline {subsection}{\numberline {5.1.2}Recruitment}{19}
+\contentsline {subsection}{\numberline {5.1.3}Data Collection}{19}
