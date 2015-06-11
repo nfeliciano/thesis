@@ -1,10 +1,10 @@
 \contentsline {chapter}{Supervisory Committee}{ii}
 \contentsline {chapter}{Abstract}{iii}
 \contentsline {chapter}{Table of Contents}{iv}
-\contentsline {chapter}{List of Tables}{v}
-\contentsline {chapter}{List of Figures}{vi}
-\contentsline {chapter}{Acknowledgements}{vii}
-\contentsline {chapter}{Dedication}{viii}
+\contentsline {chapter}{List of Tables}{vii}
+\contentsline {chapter}{List of Figures}{viii}
+\contentsline {chapter}{Acknowledgements}{ix}
+\contentsline {chapter}{Dedication}{x}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Problem Statement}{2}
 \contentsline {section}{\numberline {1.2}Motivation}{3}
@@ -59,40 +59,39 @@
 \contentsline {subsection}{\numberline {4.5.2}RQ2: Motivation and Benefits}{31}
 \contentsline {subsection}{\numberline {4.5.3}RQ3: Challenges and Difficulties}{32}
 \contentsline {section}{\numberline {4.6}Discussion}{32}
-\contentsline {section}{\numberline {4.7}Discussion}{32}
-\contentsline {subsection}{\numberline {4.7.1}Comparing GitHub to Traditional LMSs}{32}
-\contentsline {subsection}{\numberline {4.7.2}Going Beyond Traditional LMSs}{33}
+\contentsline {subsection}{\numberline {4.6.1}Comparing GitHub to Traditional LMSs}{32}
+\contentsline {subsection}{\numberline {4.6.2}Going Beyond Traditional LMSs}{33}
 \contentsline {subsubsection}{Version Control}{33}
 \contentsline {subsubsection}{Transparency \& Awareness}{33}
 \contentsline {subsubsection}{Student Engagement \& Participation}{34}
 \contentsline {subsubsection}{Reusing and Remixing}{34}
-\contentsline {subsection}{\numberline {4.7.3}Implications Beyond GitHub}{35}
-\contentsline {subsection}{\numberline {4.7.4}Recommendations}{35}
-\contentsline {subsection}{\numberline {4.7.5}Limitations}{35}
+\contentsline {subsection}{\numberline {4.6.3}Implications Beyond GitHub}{35}
+\contentsline {subsection}{\numberline {4.6.4}Recommendations}{35}
+\contentsline {subsection}{\numberline {4.6.5}Limitations}{35}
 \contentsline {chapter}{\numberline {5}The Student Perspective}{37}
 \contentsline {section}{\numberline {5.1}Research Questions}{38}
 \contentsline {section}{\numberline {5.2}Research Design}{38}
 \contentsline {subsection}{\numberline {5.2.1}Recruitment}{39}
 \contentsline {subsection}{\numberline {5.2.2}Data Collection}{40}
 \contentsline {subsection}{\numberline {5.2.3}Data Analysis}{41}
-\contentsline {section}{\numberline {5.3}GitHub Use}{41}
+\contentsline {section}{\numberline {5.3}Study Setup}{41}
 \contentsline {section}{\numberline {5.4}Participants}{42}
 \contentsline {section}{\numberline {5.5}Qualitative Findings}{42}
 \contentsline {subsection}{\numberline {5.5.1}RQ1: How do students feel that the use of systems like GitHub can benefit their education?}{42}
 \contentsline {subsection}{\numberline {5.5.2}RQ2: What are the challenges for students related to the use of GitHub in their classes?}{51}
 \contentsline {subsection}{\numberline {5.5.3}RQ3: What do students feel is the ideal workflow for using GitHub in the classroom?}{56}
-\contentsline {subsection}{\numberline {5.5.4}RQ4: How do students feel the GitHub approach and GitHub as a tool in comparison to more traditional Learning Management Systems?}{59}
-\contentsline {section}{\numberline {5.6}Instructors' Perspectives}{63}
-\contentsline {subsection}{\numberline {5.6.1}Lab Instructors}{65}
-\contentsline {section}{\numberline {5.7}Discussion}{67}
-\contentsline {subsection}{\numberline {5.7.1}A Student-Oriented Learning Tool}{67}
-\contentsline {subsubsection}{Material Dissemination & Interaction}{68}
-\contentsline {subsubsection}{Open Participation}{69}
+\contentsline {subsection}{\numberline {5.5.4}RQ4: How do students feel the GitHub approach and GitHub as a tool in comparison to more traditional Learning Management Systems?}{60}
+\contentsline {section}{\numberline {5.6}Instructors' Perspectives}{64}
+\contentsline {subsection}{\numberline {5.6.1}Lab Instructors}{66}
+\contentsline {section}{\numberline {5.7}Discussion}{68}
+\contentsline {subsection}{\numberline {5.7.1}A Student-Oriented Learning Tool}{68}
+\contentsline {subsubsection}{Material Dissemination \& Interaction}{69}
+\contentsline {subsubsection}{Open Participation}{70}
 \contentsline {subsubsection}{Project Work}{70}
-\contentsline {chapter}{\numberline {6}Discussion \& Conclusion}{71}
-\contentsline {section}{\numberline {6.1}GitHub as an LMS}{71}
-\contentsline {section}{\numberline {6.2}Beyond the LMS}{71}
-\contentsline {section}{\numberline {6.3}Recommendations for Use}{71}
-\contentsline {section}{\numberline {6.4}Implications}{71}
-\contentsline {section}{\numberline {6.5}Limitations}{71}
-\contentsline {section}{\numberline {6.6}Future Work}{71}
+\contentsline {chapter}{\numberline {6}Discussion \& Conclusion}{72}
+\contentsline {section}{\numberline {6.1}GitHub as an LMS}{72}
+\contentsline {section}{\numberline {6.2}Beyond the LMS}{72}
+\contentsline {section}{\numberline {6.3}Recommendations for Use}{72}
+\contentsline {section}{\numberline {6.4}Implications}{72}
+\contentsline {section}{\numberline {6.5}Limitations}{72}
+\contentsline {section}{\numberline {6.6}Future Work}{72}
