@@ -1,8 +1,20 @@
 \chapter{The GitHub Way}
 
 \section{What is GitHub?}
+GitHub is web-based social code sharing service that utilizes the Git distributed version control system. It is a tool utilized by millions of developers all over the world to facilitate collaboration via the use of its awareness and transparency features, collaborative features such as pull requests, and version control. The tool is organized so that developers can create repositories containing code, which they can cultivate on their own or share with other developers who they can collaborate on the code with. Repositories can be public, which means that anybody can see them and pull their code, though the owner can decide who can and cannot make changes; or they can be private, making the repository viewable and editable only by those given collaborator status.
 
-\section{Branching \& Merging}
+\section{Git: Distributed Version Control}
+There's two very important aspects to Git: that work is distributed, and that work is handled by version control. The distributed aspect refers to the possibility of work being decentralized - instead of being forced to work in a repository where there is a central hub where everyone pushes code to, individual developers can create public clones of that repository and push to their respective clones before the original repository's maintainer or owner pulls in the work. This provides many opportunities for remixing and reusing code as well as creating a workflow in which multiple parties can do separate work at their own pace.
+
+The version control aspect means that developers can easily track changes to their code and that multiple developers can work on the same file, as combining changes requires a simple merge that Git makes very easy to handle. In this system, when a user makes changes to the project, they would `commit' their changes, effectively saving a snapshot of the project as it is at that point of time. These commits, or snapshots, are saved in history, allowing developers to revert projects back to commits as they need to. The user can then push all of their changes to the server, meaning other collaborators can see these changes made. If a collaborator has made changes as well, these can be merged together when a user `pulls' all changes made on the server.
+%this will need better explaining
+
+\section{Branching, Forking, \& Merging}
+Three of the features in Git and GitHub that facilitate collaborative coding - branching, forking, and merging. Branching, a Git feature, and forking, a GitHub feature, provides two ways of diverging from the main code base. A user can make changes in a repository branch, which is a deviation of the code from the code base - the trunk - and the changes remain a part of the main repository. When a user branches off the trunk, they can still monitor changes to the trunk despite working on a different branch of it.
+
+Forking, meanwhile, achieves a similar function of deviating from the code base. The main difference is that a fork is independent of the main code base, meaning a user won't be aware of the changes happening in the repository of the main code base unless they explicitly monitor those changes. When a user forks a repository, the repository, including all its branches, are copied; on the other hand, if a repository is deleted, the fork still exists. Generally, branching provides a good workflow for development teams, where collaborators need to be aware of all the changes made to each branch and the main code base. Meanwhile, forking tends to work for open-source projects where the repository owner does not want to manage user access to the repository and would want to keep collaborator changes independent until they are ready to be merged.
+
+Merging, meanwhile, is the mechanism for combining changes with each other, or getting changes in a branch or fork into the main code base. 
 
 \section{Pull Requests}
 
