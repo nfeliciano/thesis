@@ -16,23 +16,22 @@ Branching and forking provides two ways of diverging from the main code base. A 
 Forking, meanwhile, achieves a similar function of deviating from the code base. The main difference is that a fork is independent of the main code base, meaning a user won't be aware of the changes happening in the repository of the main code base unless they explicitly monitor those changes. When a user forks a repository, the repository, including all its branches, are copied; on the other hand, if a repository is deleted, the fork still exists. Generally, branching provides a good workflow for development teams, where collaborators need to be aware of all the changes made to each branch and the main code base. Meanwhile, forking tends to work for open-source projects where the repository owner does not want to manage user access to the repository and would want to keep collaborator changes independent until they are ready to be merged.
 
 \section{Merging \& Pull Requests}
-Merging is the mechanism for combining changes with each other or pulling changes in a branch of fork into the main code base.
+Merging is the mechanism for combining changes with each other or pulling changes in a branch of fork into the main code base. For example, a collaborator can branch or fork from the main code base and make changes to the code as they see fit, and it would remain on their branch or on their repository. In order to get the changes into the main code base, the person managing it would have to merge the changes into it, combining whatever changes were made in the branch or fork with the code base as it is. In some cases such as when the same section of code is changed at the same time, this can result in what's called a merge conflict, which would require the user to manually pick and choose which of the changes or pieces of code they want to keep. These merge conflicts would be an issue in file types that aren't versioned by Git, such as PDF documents, as changes anywhere in the file in two different branches could create merge conflicts.
 
-Pull Requests are a way of requesting to a repository to pull one's changes in.
+Pull Requests (PRs) are a way of handling these merges. In a PR, the person making the changes in a branch or a fork will request to the code base maintainer to merge their code into the main trunk. These PRs will be listed on GitHub in a separate tab, where collaborators can see each of the commits made, what files were changed, and . Collaborators can also make comments on PRs, typically when changes have to be made before a PR should be accepted or a \'+1\' if they think a PR is ready to be merged into the main code base.
 
 \section{Issues \& Comments}
-The issues feature on GitHub allows for discussion between collaborators.
+The issues feature on GitHub allows for discussion between collaborators. These issues can be tagged with whatever the issue creator or editor wants, such as \'Bug\' or \'Feature\', and the issues list can be filtered to only see issues of a certain tag, or see only closed or open issues. Issues can be assigned to a user, letting others know who is in charge of that issue. As well, issues can be assigned to a Milestone, a date set by a collaborator to have certain issues completed by. PRs also get automatically posted as an issue, which gets closed when that PR gets accepted or closed. Users can comment on issues, so the issues can be used as a hub for discussions. Users can also refer to issues in commit messages, thereby displaying it in the issue: for example, an issue #11 would say \textit{``this issue has been referred to by commit #afeoai183ja.''}
 
-Users can mention others by referring to their username, thereby sending them a notification and, in most cases, an email.
-
-Users can also comment on more specific artifacts, such as pull requests, commits, or lines of code.
+Moreover, an important feature is in the flexibility in the comments made. For example, users can mention others by referring to their username preceded by an \'@\' character, thereby sending them a notification and, in most cases, an email. This allows collaborators to directly refer to another when, for example, they'd like to ask someone to make a specific change to the issue or PR. Comments can also refer to specific commits by using their \'#\' commit number, or to specific issues or PRs by using their issue number preceded by the character \'#\'. Users can also comment on more specific artifacts, such as pull requests, commits, or lines of code. This gives the user flexibility in being able to warn another collaborator, for example, when a specific line of code is difficult to understand or causes a bug.
+%fact check the referring to specific commits
 
 \section{Openness \& Transparency}
-Watch vs. not watch.
+GitHub's openness and transparency features allows groups to facilitate both direct and indirect collaboration, allowing users to have a full view of things going on in the project. For example, users can look at the commit history to see exactly what the other collaborators are working on and changing, as they are able to see specific changes on specific commits. This history is useful, compounded by the use of the \'blame\' feature, in which a user can see exactly who made a specific change or line of code. %why is this useful
 
-Commit history.
+Users can also choose to \'Watch\' a repository, 
 
-Activity.
+Activity monitor.
 
 News feed.
 
