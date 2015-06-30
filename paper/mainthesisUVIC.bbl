@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}
+
+\bibitem{coleman2012collaboration}
+Ben Coleman and Matthew Lang.
+\newblock Collaboration across the curriculum: a disciplined approach
+  todeveloping team skills.
+\newblock In {\em Proceedings of the 43rd ACM technical symposium on Computer
+  Science Education}, pages 277--282. ACM, 2012.
+
+\bibitem{dabbish2012social}
+Laura Dabbish, Colleen Stuart, Jason Tsay, and Jim Herbsleb.
+\newblock Social coding in github: transparency and collaboration in an open
+  software repository.
+\newblock In {\em Proceedings of the ACM 2012 conference on Computer Supported
+  Cooperative Work}, pages 1277--1286. ACM, 2012.
+
+\bibitem{easterbrook2008selecting}
+Steve Easterbrook, Janice Singer, Margaret-Anne Storey, and Daniela Damian.
+\newblock Selecting empirical methods for software engineering research.
+\newblock In {\em Guide to advanced empirical software engineering}, pages
+  285--311. Springer, 2008.
+
+\bibitem{garrison2011learning}
+D~Randy Garrison.
+\newblock {\em E-learning in the 21st century: A framework for research and
+  practice}.
+\newblock Taylor \& Francis, 2011.
+
+\bibitem{jazayeri2004education}
+Mehdi Jazayeri.
+\newblock The education of a software engineer.
+\newblock In {\em Proceedings of the 19th IEEE international conference on
+  Automated software engineering}, pages 18--xxvii. IEEE Computer Society,
+  2004.
+
+\bibitem{mcloughlin2007social}
+Catherine McLoughlin and Mark~JW Lee.
+\newblock Social software and participatory learning: Pedagogical choices with
+  technology affordances in the web 2.0 era.
+\newblock In {\em ICT: Providing choices for learners and learning. Proceedings
+  ascilite Singapore 2007}, pages 664--675, 2007.
+
+\bibitem{O'Reilly-What-2005}
+Tim O'Reilly.
+\newblock What is web 2.0? design patterns and business models for the next
+  generation of software.
+\newblock 2005.
+
+\bibitem{waite2004student}
+William~M Waite, Michele~H Jackson, Amer Diwan, and Paul~M Leonardi.
+\newblock Student culture vs group work in computer science.
+\newblock {\em ACM SIGCSE Bulletin}, 36(1):12--16, 2004.
+
+\end{thebibliography}
