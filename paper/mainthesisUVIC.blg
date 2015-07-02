@@ -9,6 +9,33 @@ A level-1 auxiliary file: chapters/5/casestudies.aux
 A level-1 auxiliary file: chapters/6/discussion.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "ben2001constructivism"
+Warning--I didn't find a database entry for "kim2001social"
+Warning--I didn't find a database entry for "wenger1998communities"
+Warning--I didn't find a database entry for "ben2004situated"
+Warning--I didn't find a database entry for "jenkins2009confronting"
+Warning--I didn't find a database entry for "machanick2007social"
+Warning--I didn't find a database entry for "hamer2006some"
+Warning--I didn't find a database entry for "hamer2008contributing"
+Warning--I didn't find a database entry for "falkner2012supporting"
+Warning--I didn't find a database entry for "kumar2011comparative"
+Warning--I didn't find a database entry for "downes2005feature"
+Warning--I didn't find a database entry for "parameswaran2007social"
+Warning--I didn't find a database entry for "goh2013students"
+Warning--I didn't find a database entry for "chen2010engaging"
+Warning--I didn't find a database entry for "edrees2013elearning"
+Warning--I didn't find a database entry for "dalsgaard2006social"
+Warning--I didn't find a database entry for "mott2010envisioning"
+Warning--I didn't find a database entry for "garcia2011opening"
+Warning--I didn't find a database entry for "rossling2008enhancing"
+Warning--I didn't find a database entry for "rossling2010adapting"
+Warning--I didn't find a database entry for "meneely2009preparing"
+Warning--I didn't find a database entry for "reid2007drproject"
+Warning--I didn't find a database entry for "hamer2011tools"
+Warning--I didn't find a database entry for "reid2005learning"
+Warning--I didn't find a database entry for "clifton2007subverting"
+Warning--I didn't find a database entry for "griffin2013github"
+Warning--I didn't find a database entry for "kelleher2014employing"
 Warning--I didn't find a database entry for "Griffin:2013:GCJ:2458539.2458551"
 Warning--I didn't find a database entry for "Dabbish:2012:SCG:2145204.2145396"
 Warning--I didn't find a database entry for "wakeford2008fieldnotes"
@@ -29,45 +56,45 @@ Warning--I didn't find a database entry for "dourish1992awareness"
 Warning--I didn't find a database entry for "janssen2013coordinated"
 Warning--I didn't find a database entry for "Jenkins2006"
 Warning--empty journal in O'Reilly-What-2005
-You've used 9 entries,
+You've used 13 entries,
             2118 wiz_defined-function locations,
-            580 strings with 6370 characters,
-and the built_in function-call counts, 3523 in all, are:
-= -- 368
-> -- 123
-< -- 5
-+ -- 50
-- -- 40
-* -- 212
-:= -- 536
-add.period$ -- 31
-call.type$ -- 9
-change.case$ -- 46
+            633 strings with 7630 characters,
+and the built_in function-call counts, 5018 in all, are:
+= -- 524
+> -- 183
+< -- 7
++ -- 74
+- -- 60
+* -- 316
+:= -- 776
+add.period$ -- 44
+call.type$ -- 13
+change.case$ -- 68
 chr.to.int$ -- 0
-cite$ -- 10
-duplicate$ -- 160
-empty$ -- 298
-format.name$ -- 40
-if$ -- 787
+cite$ -- 14
+duplicate$ -- 219
+empty$ -- 416
+format.name$ -- 60
+if$ -- 1107
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 10
-newline$ -- 48
-num.names$ -- 18
-pop$ -- 64
+int.to.str$ -- 13
+missing$ -- 14
+newline$ -- 68
+num.names$ -- 26
+pop$ -- 85
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 56
 quote$ -- 0
-skip$ -- 121
+skip$ -- 162
 stack$ -- 0
-substring$ -- 253
-swap$ -- 57
-text.length$ -- 5
+substring$ -- 363
+swap$ -- 74
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 34
+type$ -- 50
 warning$ -- 1
-while$ -- 37
-width$ -- 10
-write$ -- 102
-(There were 20 warnings)
+while$ -- 55
+width$ -- 15
+write$ -- 147
+(There were 47 warnings)
