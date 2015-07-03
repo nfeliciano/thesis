@@ -1,29 +1,62 @@
 \chapter{Discussion}
-Combining these two 
+The studies in the two previous chapters explored the use of GitHub as an educational tool, first from the instructors' perspectives and second from the students'. In this chapter, we discuss the viability of using GitHub and of using `The GitHub Way' in courses, a number of recommendations for instructors who wish to use GitHub in their courses, and the implications of the research.
 
-\section{GitHub as an LMS}
-GitHub functional as an LMS.
+\section{The Viability of GitHub for Education}
+In past chapters, we discussed how GitHub can be used to support teaching and learning, as well as why instructors might consider using GitHub in such ways. With multiple Learning Management Systems available as options for higher education institutions, it is compelling to ask: can GitHub on its own be one such tool or will its use in education require another tool used in conjunction?
 
-Material Dissemination.
+%yes, but not GitHub
+We can again look to Malikowski \textit{et al.}'s \cite{malikowski2007model} work to answer this, which has created a model for LMS split into five categories: \\
+\begin{itemize}
+\item \emph{Transmitting Course Content} as the most used category, which GitHub not only can do, but it can also extend it by providing a two-way transmission wherein students can also easily contribute to the course content.
+\item \emph{Creating Class Interactions} as another moderately used category, which GitHub supports well through the commenting system, either in code or in the `Issues' pane. These interactions are mostly of the asynchronous nature, however.
+\item \emph{Evaluating Students} as a moderately used category, which GitHub enables by allowing instructors to comment on student work and notify the students whenever they receive comments. One important limitation in this category, however, is that in the typical case, data stored in GitHub's repositories will be stored on GitHub servers in the United States, rather than in something an institution can have control over.
+\item \emph{Evaluating Courses and Instructors} as a rarely used category, an activity GitHub does not support without using external tools such as survey generators.
+\item \emph{Creating Computer-Based Instruction} as a rarely used category, an activity that instructors could use GitHub for with some work. A basic form of Computer-Based Instruction is online quiz generation, a feature built into many modern LMSes, but unfortunately a feature GitHub cannot support without building something externally. However, automatic grading tools can be built and called upon whenever a student makes a push, creating a form of Computer-Based Instruction.
 
-Discussion.
+As such, GitHub meets most of the basic features a traditional LMS often includes, according to this model. However, with data typically being stored on GitHub's servers, many institutions require much of the administrative artifacts such as class roster and grading to be under their control, which means that another tool will need to be used in conjunction with GitHub. Fortunately, there are solutions.
 
-Missing features such as privacy for grades, assignments, etc.
+Some of the instructors we spoke to were able to set up GitHub servers in their own space, thereby having control of the data. This is presumably done through GitHub Enterprise \footnote{\url{https://enterprise.github.com/home}} or through an undocumented process. Another solution would be to set up a tool that is similar to GitHub, but a tool that can use one's own servers, such as GitLab \footnote{\url{https://about.gitlab.com}}. These solutions would eliminate the limitation of having external servers, therefore enabling the hosting of artifacts that need to be secure. The disadvantage with these approaches, however, is that the benefits of having a course visible and in contact with outside communities will cease to be a benefit.
 
-\section{Beyond the LMS}
-Contribution back.
+%say that I recommend using it somewhere here?
+Overall, using GitHub for educational purposes does seem to be viable, and can provide an alternative for instructors who wish to avoid the limitations of traditional LMS \cite{garcia2011opening}. Beyond that, however, GitHub offers many advantages and opportunities not present in traditional LMS, and should therefore be a tool that instructors, particularly those teaching computer science and software engineering, should consider using to support their teaching. What GitHub offers are unique ways of engaging students by letting them contribute to the course and to each others' learning. These opportunities to engage students build towards a culture where students can perform better as a result \cite{kuh2001assessing}. For instructors, GitHub also offers unique opportunities for grading and for easy ways of reusing and remixing course material from previous and for future iterations of the course.
 
-Portfolio.
+\section{Recommendations for Educators}
+This section provides recommendations for educators who may want to use GitHub to support their course. These recommendations are based on the findings from the two studies highlighted in this thesis, as well as from the review of literature surrounding tools in computer science and software engineering education.
 
-\section{Recommendations for Use}
-education.github.com
+Before proceeding, I note that GitHub has their own set of recommendations for setting up an organization for the class \footnote\url{https://education.github.com/guide}. Their guide is useful for those looking for a step-by-step process. As discussed in a previous chapter, it can also be helpful to use these resources available to you - use GitHub support, look for other instructor experiences for guidance, discuss your own experiences in a blog or in spaces dedicated to the topic \footnote{\url{https://github.com/education/teachers/issues}}. These can serve towards others getting a more complete idea of how GitHub can be used in this fashion.
 
-Public vs. Private
+\textbf{Recommendation: Use GitHub}
+When teaching a computer science or software engineering course where many students can benefit from the exposure to Git, GitHub, and its features. For these students, simply getting more experience using a tool they may use in their careers, as well as getting assignments, projects, and code onto their repository, could prove to be valuable when they are getting their careers started.
 
-\section{Implications}
-%?
+Moreover, using the various features of GitHub is important; simply using it as a system for material dissemination can be helpful, but having students contribute to the course and to each others' work can help develop skills such as teamwork and communication \cite{hamer2006some}. As an example, exposure to the Issues feature of GitHub, even for relatively basic discussions, was helpful for one of the students interviewed in the second study, as the student would learn how it works and use the feature in future projects. Using these features, such as the Issues, the wiki, or Pull Requests can provide students much needed practice with these tools.
 
-How should future tools change?
+The important lesson noted from the case study was to communicate whatever workflow the instructor decides clearly and properly to the teaching team and to the students. When deciding to use a feature like the Pull Requests, for example, the instructor must communicate this workflow properly, perhaps even offering bonus points for added material.
+
+\textbf{Recommendation: Open-Ended Projects}
+%type of course - better for open-ended
+%assignment submission
+Many students and instructors felt that GitHub worked best when a course has open-ended projects and assignments. This is because of the plaigarism concerns that exist when students are all putting their code up online, potentially for others to see. Of course, students can put up their code in private repositories controlled by the instructor; if the instructor creates a private repository for each student to submit their assignments and adds only the student as a collaborator, plaigarism would only be as much of a concern as it is without using GitHub.
+
+This style of repository management (where a private repository is dedicated to each student) could work well for assignment submission as well. The instructor could ask the students to create a branch, or ask the students to fork off the main repositories and make the forks private, and then mandate that a Pull Request must come in by the deadline. Using GitHub in this manner can help an instructor keep an eye on the work happening in each student's repository and potentially grade using this transparency.
+
+However, the set up for this more private style of repository management requires some set up. Students would apply for student accounts which grants them 10 free private repositories, one of which can be used for the course in question. That is, however, a time consuming process, taking potentially weeks at a time before approval. Creating an organization for a class is another option, where an organization is granted an amount of private repositories depending on how much they pay. GitHub has stated that they would give teachers a free organization for their courses \footnote{\url{https://github.com/blog/1775-github-goes-to-school}}, but that is again something that must be set up well before the course begins in order to get the private repositories in time.
+
+Moreover, if assignments are in private repositories and are not open-ended (if they have only one solution), that limits one of the important benefits of using GitHub - the ability to view, comment on, and contribute to other student's work. As such, although GitHub is usable and helpful in any type of course, courses with open-ended projects and courses with a culture of participation are where instructors and students will see the main benefits of using GitHub as a learning tool. If an instructor chooses to pursue the open-ended style of work, it is recommended that they list projects on the home page on the readme markdown file, so students can easily access the other projects.
+
+\textbf{Recommendation: Encourage Contributions}
+%contributions from others (slides in html, comment on other projects issues)
+As much as possible, an instructor should attempt to encourage contribution from the students in any way possible. Encourage students to contribute to the course material by making corrections, changes, and adding resources, to contribute to other students' work and projects (provided the work is open-ended), and to contribute to the outside by making changes and Pull Requests in open-source repositories. Encouraging this `Contributing Student Pedagogy' can develop skills such as critical analysis and collaboration \cite{falkner2012supporting}. Moreover, there are multiple ways for students to contribute, and all their work is potentially visible for the course instructor to see. For example, if contributing to other students' projects, they could simply raise an issue in their repository, or go as far as to making the changes themselves and creating a Pull Request from it.
+
+\section{Implications for the Future}
+Another important consideration from this work relates to the future of tools for computer science and software engineering education - what's next? First, we consider the importance of participation, group work, and group learning for students in technical field in order to develop non-technical, `soft' skills such as communication and teamwork \cite{jazayeri2004education}. We've seen from the two studies in this thesis how GitHub can assist with the development of those skills, and because of this, I believe that `The GitHub Way' can be a beneficial addition to current and future learning tools.
+
+%GitHub for Education
+This could lead to multiple paths. Literature has shown that LMS have been adding `Web 2.0' features such as blogs and wikis to their feature set \cite{downes2005feature}, where students are offered more opportunities to participate by discussion. Where `The GitHub Way' excels in education, however, is in the opportunities for students to contribute to the material and to each others' learning. This, I argue, is the next step for learning management systems, where students are more easily able to make contributions.
+
+Another possible path is the `GitHub for Education' Greg Wilson discussed \footnote{\url{http://software-carpentry.org/blog/2011/12/fork-merge-and-share.html}}, where a tool like GitHub can be altered or built to be more focused towards education. The main weakness of GitHub when used in this context is in the lack of flexibility in its privacy and in the lack of administrative functions such as gradebooks and announcements. Meanwhile, there are open-source alternatives to GitHub such as GitLab \footnote{\url{https://about.gitlab.com}}, that could be further developed into a tool more that fulfils more educational needs.
+
+\todo{is this necessary? I don't know how to end the chapter..}
+In summary, this work has shown the viability of using GitHub for education, and has demonstrated why `The GitHub Way' should be considered when deciding on which tools to use to support a course. Based on the findings of this work, I include a set of recommendations for educators interested in using GitHub as a learning tool.
 
 %probably in conclusion
 %\section{Limitations}
