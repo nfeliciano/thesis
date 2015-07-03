@@ -12,89 +12,80 @@
 \contentsline {section}{\numberline {1.4}Research Approach}{5}
 \contentsline {section}{\numberline {1.5}Thesis Organization}{5}
 \contentsline {chapter}{\numberline {2}Background}{7}
-\contentsline {section}{\numberline {2.1}The Social Aspect}{8}
-\contentsline {section}{\numberline {2.2}The Contributing Student}{9}
-\contentsline {section}{\numberline {2.3}Tools and Supporting Technology}{10}
-\contentsline {section}{\numberline {2.4}Evolving the Learning Tool}{12}
-\contentsline {section}{\numberline {2.5}Student Engagement?}{14}
-\contentsline {section}{\numberline {2.6}Remixing?}{14}
-\contentsline {section}{\numberline {2.7}Transparency \& Awareness?}{14}
-\contentsline {chapter}{\numberline {3}The GitHub Way}{15}
-\contentsline {section}{\numberline {3.1}What is GitHub?}{15}
-\contentsline {section}{\numberline {3.2}Git: Distributed Version Control}{16}
-\contentsline {section}{\numberline {3.3}Branching \& Forking}{16}
-\contentsline {section}{\numberline {3.4}Merging \& Pull Requests}{17}
-\contentsline {section}{\numberline {3.5}Issues \& Comments}{18}
-\contentsline {section}{\numberline {3.6}Openness \& Transparency}{18}
-\contentsline {section}{\numberline {3.7}Why GitHub for Education?}{19}
-\contentsline {chapter}{\numberline {4}The Instructor Perspective}{22}
-\contentsline {section}{\numberline {4.1}Motivations}{22}
-\contentsline {section}{\numberline {4.2}Research Questions}{23}
-\contentsline {section}{\numberline {4.3}Research Design}{24}
-\contentsline {subsection}{\numberline {4.3.1}Participants}{25}
-\contentsline {subsubsection}{Interview Participants}{25}
-\contentsline {subsubsection}{Follow-up Survey Respondents}{26}
-\contentsline {subsection}{\numberline {4.3.2}Data Collection}{26}
-\contentsline {subsection}{\numberline {4.3.3}Data Analysis}{26}
-\contentsline {section}{\numberline {4.4}Findings}{27}
-\contentsline {subsection}{\numberline {4.4.1}RQ1: How does GitHub support learning and teaching?}{27}
-\contentsline {subsubsection}{GitHub as a Submission Platform}{27}
-\contentsline {subsubsection}{Hosting Course Material}{28}
-\contentsline {subsection}{\numberline {4.4.2}RQ2: What are the motivations and benefits of using GitHub for education?}{29}
-\contentsline {subsubsection}{Transparency of Activity}{29}
-\contentsline {subsubsection}{Encourage Participation}{30}
-\contentsline {subsubsection}{Reuse and Sharing of Course Materials and Knowledge}{31}
-\contentsline {subsubsection}{Industry Relevance}{32}
-\contentsline {subsubsection}{Ease of Use}{33}
-\contentsline {subsubsection}{Free Academic Licenses}{33}
-\contentsline {subsubsection}{Shared Space and Course Versioning}{34}
-\contentsline {subsection}{\numberline {4.4.3}RQ3: What challenges are related to the use of GitHub for education?}{34}
-\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{34}
-\contentsline {subsubsection}{Barriers to Entry}{35}
-\contentsline {subsubsection}{Support for Additional Formats}{35}
-\contentsline {subsubsection}{External Restrictions}{36}
-\contentsline {subsubsection}{Large-scale Management}{36}
-\contentsline {subsection}{\numberline {4.4.4}GitHub's Perspective}{37}
-\contentsline {subsection}{\numberline {4.4.5}Follow-up Survey}{38}
-\contentsline {section}{\numberline {4.5}Validation}{39}
-\contentsline {subsection}{\numberline {4.5.1}RQ1: Uses in Teaching and Learning}{39}
-\contentsline {subsection}{\numberline {4.5.2}RQ2: Motivation and Benefits}{40}
-\contentsline {subsection}{\numberline {4.5.3}RQ3: Challenges and Difficulties}{40}
-\contentsline {section}{\numberline {4.6}Discussion}{41}
-\contentsline {subsection}{\numberline {4.6.1}Comparing GitHub to Traditional LMSs}{41}
-\contentsline {subsection}{\numberline {4.6.2}Going Beyond Traditional LMSs}{42}
-\contentsline {subsubsection}{Version Control}{42}
-\contentsline {subsubsection}{Transparency \& Awareness}{42}
-\contentsline {subsubsection}{Student Engagement \& Participation}{43}
-\contentsline {subsubsection}{Reusing and Remixing}{43}
-\contentsline {subsection}{\numberline {4.6.3}Implications Beyond GitHub}{44}
-\contentsline {subsection}{\numberline {4.6.4}Recommendations}{44}
-\contentsline {subsection}{\numberline {4.6.5}Limitations}{44}
-\contentsline {chapter}{\numberline {5}The Student Perspective}{46}
-\contentsline {section}{\numberline {5.1}Research Questions}{47}
-\contentsline {section}{\numberline {5.2}Research Design}{48}
-\contentsline {subsection}{\numberline {5.2.1}Recruitment}{49}
-\contentsline {subsection}{\numberline {5.2.2}Data Collection}{49}
-\contentsline {subsection}{\numberline {5.2.3}Data Analysis}{50}
-\contentsline {section}{\numberline {5.3}Study Setup}{50}
-\contentsline {section}{\numberline {5.4}Participants}{51}
-\contentsline {section}{\numberline {5.5}Qualitative Findings}{52}
-\contentsline {subsection}{\numberline {5.5.1}RQ1: How do students feel that the use of systems like GitHub can benefit their education?}{52}
-\contentsline {subsection}{\numberline {5.5.2}RQ2: What are the challenges for students related to the use of GitHub in their classes?}{62}
-\contentsline {subsection}{\numberline {5.5.3}RQ3: What do students feel is the ideal workflow for using GitHub in the classroom?}{68}
-\contentsline {subsection}{\numberline {5.5.4}RQ4: How do students feel the GitHub approach and GitHub as a tool in comparison to more traditional Learning Management Systems?}{72}
-\contentsline {section}{\numberline {5.6}Instructors' Perspectives}{77}
-\contentsline {subsection}{\numberline {5.6.1}Lab Instructors}{80}
-\contentsline {section}{\numberline {5.7}Discussion}{82}
-\contentsline {subsection}{\numberline {5.7.1}A Student-Oriented Learning Tool}{82}
-\contentsline {subsubsection}{Material Dissemination \& Interaction}{82}
-\contentsline {subsubsection}{Open Participation}{83}
-\contentsline {subsubsection}{Project Work}{84}
-\contentsline {chapter}{\numberline {6}Discussion}{86}
-\contentsline {section}{\numberline {6.1}GitHub as an LMS}{86}
-\contentsline {section}{\numberline {6.2}Beyond the LMS}{86}
-\contentsline {section}{\numberline {6.3}Recommendations for Use}{86}
-\contentsline {section}{\numberline {6.4}Implications}{86}
-\contentsline {section}{\numberline {6.5}Limitations}{87}
-\contentsline {section}{\numberline {6.6}Future Work}{87}
+\contentsline {chapter}{\numberline {3}The GitHub Way}{16}
+\contentsline {section}{\numberline {3.1}What is GitHub?}{16}
+\contentsline {section}{\numberline {3.2}Git: Distributed Version Control}{17}
+\contentsline {section}{\numberline {3.3}Branching \& Forking}{17}
+\contentsline {section}{\numberline {3.4}Merging \& Pull Requests}{18}
+\contentsline {section}{\numberline {3.5}Issues \& Comments}{19}
+\contentsline {section}{\numberline {3.6}Openness \& Transparency}{19}
+\contentsline {section}{\numberline {3.7}Why GitHub for Education?}{20}
+\contentsline {chapter}{\numberline {4}The Instructor Perspective}{23}
+\contentsline {section}{\numberline {4.1}Motivations}{23}
+\contentsline {section}{\numberline {4.2}Research Questions}{24}
+\contentsline {section}{\numberline {4.3}Research Design}{25}
+\contentsline {subsection}{\numberline {4.3.1}Participants}{26}
+\contentsline {subsubsection}{Interview Participants}{26}
+\contentsline {subsubsection}{Follow-up Survey Respondents}{27}
+\contentsline {subsection}{\numberline {4.3.2}Data Collection}{27}
+\contentsline {subsection}{\numberline {4.3.3}Data Analysis}{27}
+\contentsline {section}{\numberline {4.4}Findings}{28}
+\contentsline {subsection}{\numberline {4.4.1}RQ1: How does GitHub support learning and teaching?}{28}
+\contentsline {subsubsection}{GitHub as a Submission Platform}{28}
+\contentsline {subsubsection}{Hosting Course Material}{29}
+\contentsline {subsection}{\numberline {4.4.2}RQ2: What are the motivations and benefits of using GitHub for education?}{30}
+\contentsline {subsubsection}{Transparency of Activity}{30}
+\contentsline {subsubsection}{Encourage Participation}{31}
+\contentsline {subsubsection}{Reuse and Sharing of Course Materials and Knowledge}{32}
+\contentsline {subsubsection}{Industry Relevance}{33}
+\contentsline {subsubsection}{Ease of Use}{34}
+\contentsline {subsubsection}{Free Academic Licenses}{34}
+\contentsline {subsubsection}{Shared Space and Course Versioning}{35}
+\contentsline {subsection}{\numberline {4.4.3}RQ3: What challenges are related to the use of GitHub for education?}{35}
+\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{35}
+\contentsline {subsubsection}{Barriers to Entry}{36}
+\contentsline {subsubsection}{Support for Additional Formats}{36}
+\contentsline {subsubsection}{External Restrictions}{37}
+\contentsline {subsubsection}{Large-scale Management}{37}
+\contentsline {subsection}{\numberline {4.4.4}GitHub's Perspective}{38}
+\contentsline {subsection}{\numberline {4.4.5}Follow-up Survey}{39}
+\contentsline {section}{\numberline {4.5}Validation}{40}
+\contentsline {subsection}{\numberline {4.5.1}RQ1: Uses in Teaching and Learning}{40}
+\contentsline {subsection}{\numberline {4.5.2}RQ2: Motivation and Benefits}{41}
+\contentsline {subsection}{\numberline {4.5.3}RQ3: Challenges and Difficulties}{41}
+\contentsline {section}{\numberline {4.6}Discussion}{42}
+\contentsline {subsection}{\numberline {4.6.1}Comparing GitHub to Traditional LMSs}{42}
+\contentsline {subsection}{\numberline {4.6.2}Going Beyond Traditional LMSs}{43}
+\contentsline {subsubsection}{Version Control}{43}
+\contentsline {subsubsection}{Transparency \& Awareness}{43}
+\contentsline {subsubsection}{Student Engagement \& Participation}{44}
+\contentsline {subsubsection}{Reusing and Remixing}{44}
+\contentsline {subsection}{\numberline {4.6.3}Implications Beyond GitHub}{45}
+\contentsline {subsection}{\numberline {4.6.4}Recommendations}{45}
+\contentsline {subsection}{\numberline {4.6.5}Limitations}{45}
+\contentsline {chapter}{\numberline {5}The Student Perspective}{47}
+\contentsline {section}{\numberline {5.1}Research Questions}{48}
+\contentsline {section}{\numberline {5.2}Research Design}{49}
+\contentsline {subsection}{\numberline {5.2.1}Recruitment}{50}
+\contentsline {subsection}{\numberline {5.2.2}Research Methods}{50}
+\contentsline {subsection}{\numberline {5.2.3}Data Analysis}{51}
+\contentsline {section}{\numberline {5.3}Study Setup}{51}
+\contentsline {section}{\numberline {5.4}Participants}{52}
+\contentsline {section}{\numberline {5.5}Qualitative Findings}{53}
+\contentsline {subsection}{\numberline {5.5.1}RQ1: How do students feel that the use of systems like GitHub can benefit their education?}{53}
+\contentsline {subsection}{\numberline {5.5.2}RQ2: What are the challenges for students related to the use of GitHub in their classes?}{63}
+\contentsline {subsection}{\numberline {5.5.3}RQ3: What do students feel is the ideal workflow for using GitHub in the classroom?}{69}
+\contentsline {subsection}{\numberline {5.5.4}RQ4: How do students feel the GitHub approach and GitHub as a tool in comparison to more traditional Learning Management Systems?}{73}
+\contentsline {section}{\numberline {5.6}Instructors' Perspectives}{78}
+\contentsline {subsection}{\numberline {5.6.1}Lab Instructors}{81}
+\contentsline {section}{\numberline {5.7}Discussion}{83}
+\contentsline {subsection}{\numberline {5.7.1}A Student-Oriented Learning Tool}{83}
+\contentsline {subsubsection}{Material Dissemination \& Interaction}{83}
+\contentsline {subsubsection}{Open Participation}{84}
+\contentsline {subsubsection}{Project Work}{85}
+\contentsline {chapter}{\numberline {6}Discussion}{87}
+\contentsline {section}{\numberline {6.1}GitHub as an LMS}{87}
+\contentsline {section}{\numberline {6.2}Beyond the LMS}{87}
+\contentsline {section}{\numberline {6.3}Recommendations for Use}{87}
+\contentsline {section}{\numberline {6.4}Implications}{87}
 \contentsline {chapter}{Bibliography}{88}

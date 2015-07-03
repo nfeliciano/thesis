@@ -9,33 +9,14 @@ A level-1 auxiliary file: chapters/5/casestudies.aux
 A level-1 auxiliary file: chapters/6/discussion.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for "ben2001constructivism"
-Warning--I didn't find a database entry for "kim2001social"
-Warning--I didn't find a database entry for "wenger1998communities"
-Warning--I didn't find a database entry for "ben2004situated"
-Warning--I didn't find a database entry for "jenkins2009confronting"
-Warning--I didn't find a database entry for "machanick2007social"
-Warning--I didn't find a database entry for "hamer2006some"
-Warning--I didn't find a database entry for "hamer2008contributing"
-Warning--I didn't find a database entry for "falkner2012supporting"
-Warning--I didn't find a database entry for "kumar2011comparative"
-Warning--I didn't find a database entry for "downes2005feature"
-Warning--I didn't find a database entry for "parameswaran2007social"
-Warning--I didn't find a database entry for "goh2013students"
-Warning--I didn't find a database entry for "chen2010engaging"
-Warning--I didn't find a database entry for "edrees2013elearning"
-Warning--I didn't find a database entry for "dalsgaard2006social"
-Warning--I didn't find a database entry for "mott2010envisioning"
-Warning--I didn't find a database entry for "garcia2011opening"
-Warning--I didn't find a database entry for "rossling2008enhancing"
-Warning--I didn't find a database entry for "rossling2010adapting"
-Warning--I didn't find a database entry for "meneely2009preparing"
-Warning--I didn't find a database entry for "reid2007drproject"
-Warning--I didn't find a database entry for "hamer2011tools"
-Warning--I didn't find a database entry for "reid2005learning"
-Warning--I didn't find a database entry for "clifton2007subverting"
-Warning--I didn't find a database entry for "griffin2013github"
-Warning--I didn't find a database entry for "kelleher2014employing"
+Repeated entry---line 480 of file bibliography.bib
+ : @article{junco2011effect
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 588 of file bibliography.bib
+ : @incollection{easterbrook2008selecting
+ :                                       ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Griffin:2013:GCJ:2458539.2458551"
 Warning--I didn't find a database entry for "Dabbish:2012:SCG:2145204.2145396"
 Warning--I didn't find a database entry for "wakeford2008fieldnotes"
@@ -55,46 +36,52 @@ Warning--I didn't find a database entry for "farooq2007supporting"
 Warning--I didn't find a database entry for "dourish1992awareness"
 Warning--I didn't find a database entry for "janssen2013coordinated"
 Warning--I didn't find a database entry for "Jenkins2006"
+Warning--can't use both volume and number fields in ben1998constructivism
+Warning--can't use both volume and number fields in bower2007groupwork
+Warning--can't use both volume and number fields in clifton2007subverting
+Warning--can't use both volume and number fields in meneely2009preparing
+Warning--empty journal in minocha2009study
 Warning--empty journal in O'Reilly-What-2005
-You've used 13 entries,
+Warning--can't use both volume and number fields in reid2007drproject
+You've used 54 entries,
             2118 wiz_defined-function locations,
-            633 strings with 7630 characters,
-and the built_in function-call counts, 5018 in all, are:
-= -- 524
-> -- 183
-< -- 7
-+ -- 74
-- -- 60
-* -- 316
-:= -- 776
-add.period$ -- 44
-call.type$ -- 13
-change.case$ -- 68
+            819 strings with 13833 characters,
+and the built_in function-call counts, 19473 in all, are:
+= -- 2001
+> -- 777
+< -- 25
++ -- 318
+- -- 256
+* -- 1319
+:= -- 3102
+add.period$ -- 179
+call.type$ -- 54
+change.case$ -- 283
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 219
-empty$ -- 416
-format.name$ -- 60
-if$ -- 1107
+cite$ -- 61
+duplicate$ -- 801
+empty$ -- 1583
+format.name$ -- 256
+if$ -- 4187
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 14
-newline$ -- 68
-num.names$ -- 26
-pop$ -- 85
+int.to.str$ -- 54
+missing$ -- 60
+newline$ -- 273
+num.names$ -- 108
+pop$ -- 306
 preamble$ -- 1
-purify$ -- 56
+purify$ -- 235
 quote$ -- 0
-skip$ -- 162
+skip$ -- 572
 stack$ -- 0
-substring$ -- 363
-swap$ -- 74
-text.length$ -- 7
+substring$ -- 1321
+swap$ -- 228
+text.length$ -- 25
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 50
-warning$ -- 1
-while$ -- 55
-width$ -- 15
-write$ -- 147
-(There were 47 warnings)
+type$ -- 204
+warning$ -- 7
+while$ -- 212
+width$ -- 56
+write$ -- 609
+(There were 2 error messages)

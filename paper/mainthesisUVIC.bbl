@@ -1,11 +1,75 @@
 \begin{thebibliography}{10}
 
+\bibitem{astin1984student}
+Alexander~W Astin.
+\newblock Student involvement: A developmental theory for higher education.
+\newblock {\em Journal of college student personnel}, 25(4):297--308, 1984.
+
+\bibitem{ben1998constructivism}
+Mordechai Ben-Ari.
+\newblock Constructivism in computer science education.
+\newblock In {\em Acm sigcse bulletin}, volume~30, pages 257--261. ACM, 1998.
+
+\bibitem{ben2004situated}
+Mordechai Ben-Ari.
+\newblock Situated learning in computer science education.
+\newblock {\em Computer Science Education}, 14(2):85--100, 2004.
+
+\bibitem{bower2007groupwork}
+Matt Bower.
+\newblock Groupwork activities in synchronous online classroom spaces.
+\newblock In {\em ACM SIGCSE Bulletin}, volume~39, pages 91--95. ACM, 2007.
+
+\bibitem{caruso2007ecar}
+Judith~Borreson Caruso and Gail Salaway.
+\newblock The ecar study of undergraduate students and information technology,
+  2008.
+\newblock {\em Retrieved December}, 8:2007, 2007.
+
+\bibitem{chen2010engaging}
+Pu-Shih~Daniel Chen, Amber~D Lambert, and Kevin~R Guidry.
+\newblock Engaging online learners: The impact of web-based learning technology
+  on college student engagement.
+\newblock {\em Computers \& Education}, 54(4):1222--1232, 2010.
+
+\bibitem{clifton2007subverting}
+Curtis Clifton, Lisa~C Kaczmarczyk, and Michael Mrozek.
+\newblock Subverting the fundamentals sequence: using version control to
+  enhance course management.
+\newblock In {\em ACM SIGCSE Bulletin}, volume~39, pages 86--90. ACM, 2007.
+
 \bibitem{coleman2012collaboration}
 Ben Coleman and Matthew Lang.
 \newblock Collaboration across the curriculum: a disciplined approach
   todeveloping team skills.
 \newblock In {\em Proceedings of the 43rd ACM technical symposium on Computer
   Science Education}, pages 277--282. ACM, 2012.
+
+\bibitem{collis2001flexible}
+Betty Collis and Jef Moonen.
+\newblock {\em Flexible learning in a digital world: Experiences and
+  expectations}.
+\newblock Psychology Press, 2001.
+
+\bibitem{collis2006contributing}
+Betty Collis and Jef Moonen.
+\newblock The contributing student: Learners as co-developers of learning
+  resources for reuse in web environments.
+\newblock In {\em Engaged learning with emerging technologies}, pages 49--67.
+  Springer, 2006.
+
+\bibitem{conde2014evolving}
+Miguel~{\'A} Conde, Francisco~J Garc{\'\i}a-Pe{\~n}alvo, Mar{\'\i}a~J
+  Rodr{\'\i}guez-Conde, Marc Alier, Mar{\'\i}a~J Casany, and Jordi Piguillem.
+\newblock An evolving learning management system for new educational
+  environments using 2.0 tools.
+\newblock {\em Interactive Learning Environments}, 22(2):188--204, 2014.
+
+\bibitem{creswell2013research}
+John~W Creswell.
+\newblock {\em Research design: Qualitative, quantitative, and mixed methods
+  approaches}.
+\newblock Sage publications, 2013.
 
 \bibitem{dabbish2012social}
 Laura Dabbish, Colleen Stuart, Jason Tsay, and Jim Herbsleb.
@@ -14,17 +78,77 @@ Laura Dabbish, Colleen Stuart, Jason Tsay, and Jim Herbsleb.
 \newblock In {\em Proceedings of the ACM 2012 conference on Computer Supported
   Cooperative Work}, pages 1277--1286. ACM, 2012.
 
+\bibitem{dalsgaard2006social}
+Christian Dalsgaard.
+\newblock Social software: E-learning beyond learning management systems.
+\newblock {\em European Journal of Open, Distance and E-Learning}, 2006(2),
+  2006.
+
+\bibitem{downes2005feature}
+Stephen Downes.
+\newblock Feature: E-learning 2.0.
+\newblock {\em Elearn magazine}, 1, 2005.
+
 \bibitem{easterbrook2008selecting}
 Steve Easterbrook, Janice Singer, Margaret-Anne Storey, and Daniela Damian.
 \newblock Selecting empirical methods for software engineering research.
 \newblock In {\em Guide to advanced empirical software engineering}, pages
   285--311. Springer, 2008.
 
+\bibitem{edrees2013elearning}
+Mohamed~E Edrees.
+\newblock elearning 2.0: Learning management systems readiness.
+\newblock In {\em e-Learning" Best Practices in Management, Design and
+  Development of e-Courses: Standards of Excellence and Creativity", 2013
+  Fourth International Conference on}, pages 90--96. IEEE, 2013.
+
+\bibitem{falkner2012supporting}
+Katrina Falkner and Nickolas~JG Falkner.
+\newblock Supporting and structuring “contributing student pedagogy” in
+  computer science curricula.
+\newblock {\em Computer Science Education}, 22(4):413--443, 2012.
+
+\bibitem{garcia2011opening}
+Francisco~J Garc{\'\i}a-Pe{\~n}alvo, Miguel~{\'A} Conde, Marc Alier, and
+  Mar{\'\i}a~J Casany.
+\newblock Opening learning management systems to personal learning
+  environments.
+\newblock {\em Journal of Universal Computer Science}, 17(9):1222--1240, 2011.
+
 \bibitem{garrison2011learning}
 D~Randy Garrison.
 \newblock {\em E-learning in the 21st century: A framework for research and
   practice}.
 \newblock Taylor \& Francis, 2011.
+
+\bibitem{griffin2013github}
+Terry Griffin and Shawn Seals.
+\newblock Github in the classroom: Not just for group projects.
+\newblock {\em Journal of Computing Sciences in Colleges}, 28(4):74--74, 2013.
+
+\bibitem{haaranen2015teaching}
+Lassi Haaranen and Teemu Lehtinen.
+\newblock Teaching git on the side: Version control system as a course
+  platform.
+\newblock In {\em Proceedings of the 2015 ACM Conference on Innovation and
+  Technology in Computer Science Education}, pages 87--92. ACM, 2015.
+
+\bibitem{hamer2006some}
+John Hamer.
+\newblock Some experiences with the contributing student approach.
+\newblock {\em ACM SIGCSE Bulletin}, 38(3):68--72, 2006.
+
+\bibitem{hamer2008contributing}
+John Hamer, Quintin Cutts, Jana Jackova, Andrew Luxton-Reilly, Robert
+  McCartney, Helen Purchase, Charles Riedesel, Mara Saeli, Kate Sanders, and
+  Judithe Sheard.
+\newblock Contributing student pedagogy.
+\newblock {\em ACM SIGCSE Bulletin}, 40(4):194--212, 2008.
+
+\bibitem{hamer2011tools}
+John Hamer, Andrew Luxton-Reilly, Helen~C Purchase, and Judithe Sheard.
+\newblock Tools for contributing student learning.
+\newblock {\em ACM Inroads}, 2(2):78--91, 2011.
 
 \bibitem{jazayeri2004education}
 Mehdi Jazayeri.
@@ -33,6 +157,41 @@ Mehdi Jazayeri.
   Automated software engineering}, pages 18--xxvii. IEEE Computer Society,
   2004.
 
+\bibitem{jenkins2009confronting}
+Henry Jenkins.
+\newblock {\em Confronting the challenges of participatory culture: Media
+  education for the 21st century}.
+\newblock Mit Press, 2009.
+
+\bibitem{junco2011effect}
+Reynol Junco, Greg Heiberger, and Eric Loken.
+\newblock The effect of twitter on college student engagement and grades.
+\newblock {\em Journal of computer assisted learning}, 27(2):119--132, 2011.
+
+\bibitem{kelleher2014employing}
+John Kelleher.
+\newblock Employing git in the classroom.
+\newblock In {\em Computer Applications and Information Systems (WCCAIS), 2014
+  World Congress on}, pages 1--4. IEEE, 2014.
+
+\bibitem{kim2001social}
+Beaumie Kim.
+\newblock Social constructivism.
+\newblock {\em Emerging perspectives on learning, teaching, and technology},
+  1(1):16, 2001.
+
+\bibitem{kuh2001assessing}
+George~D Kuh.
+\newblock Assessing what really matters to student learning inside the national
+  survey of student engagement.
+\newblock {\em Change: The Magazine of Higher Learning}, 33(3):10--17, 2001.
+
+\bibitem{kumar2011comparative}
+Sheo Kumar, Anil~Kumar Gankotiya, and Kamlesh Dutta.
+\newblock A comparative study of moodle with other e-learning systems.
+\newblock In {\em Electronics Computer Technology (ICECT), 2011 3rd
+  International Conference on}, volume~5, pages 414--418. IEEE, 2011.
+
 \bibitem{lethbridge2007improving}
 Timothy~C Lethbridge, Jorge Diaz-Herrera, Richard~J LeBlanc~Jr, and J~Barrie
   Thompson.
@@ -40,6 +199,11 @@ Timothy~C Lethbridge, Jorge Diaz-Herrera, Richard~J LeBlanc~Jr, and J~Barrie
   trends.
 \newblock In {\em Future of Software Engineering, 2007. FOSE'07}, pages 12--28.
   IEEE, 2007.
+
+\bibitem{machanick2007social}
+Philip Machanick.
+\newblock A social construction approach to computer science education.
+\newblock {\em Computer Science Education}, 17(1):1--20, 2007.
 
 \bibitem{mcloughlin2007social}
 Catherine McLoughlin and Mark~JW Lee.
@@ -54,16 +218,84 @@ Nancy~R Mead.
   have to go.
 \newblock {\em Journal of Systems and Software}, 82(4):571--575, 2009.
 
+\bibitem{meneely2009preparing}
+Andrew Meneely and Laurie Williams.
+\newblock On preparing students for distributed software development with a
+  synchronous, collaborative development platform.
+\newblock In {\em ACM SIGCSE Bulletin}, volume~41, pages 529--533. ACM, 2009.
+
+\bibitem{minocha2009study}
+Shailey Minocha.
+\newblock A study of the effective use of social software to support student
+  learning and engagement.
+\newblock 2009.
+
+\bibitem{minocha2007collaborative}
+Shailey Minocha and Peter~G Thomas.
+\newblock Collaborative learning in a wiki environment: Experiences from a
+  software engineering course.
+\newblock {\em New Review of Hypermedia and Multimedia}, 13(2):187--209, 2007.
+
+\bibitem{mott2010envisioning}
+Jonathan Mott.
+\newblock Envisioning the post-lms era: The open learning network.
+\newblock {\em Educause Quarterly}, 33(1):1--9, 2010.
+
 \bibitem{O'Reilly-What-2005}
 Tim O'Reilly.
 \newblock What is web 2.0? design patterns and business models for the next
   generation of software.
 \newblock 2005.
 
+\bibitem{parameswaran2007social}
+Manoj Parameswaran and Andrew~B Whinston.
+\newblock Social computing: An overview.
+\newblock {\em Communications of the Association for Information Systems},
+  19(1):37, 2007.
+
+\bibitem{reid2005learning}
+Karen~L Reid and Gregory~V Wilson.
+\newblock Learning by doing: introducing version control as a way to manage
+  student assignments.
+\newblock {\em ACM SIGCSE Bulletin}, 37(1):272--276, 2005.
+
+\bibitem{reid2007drproject}
+Karen~L Reid and Gregory~V Wilson.
+\newblock Drproject: a software project management portal to meet educational
+  needs.
+\newblock In {\em ACM SIGCSE Bulletin}, volume~39, pages 317--321. ACM, 2007.
+
+\bibitem{rossling2008enhancing}
+Guido R{\"o}{\ss}ling, Mike Joy, Andr{\'e}s Moreno, Atanas Radenski, Lauri
+  Malmi, Andreas Kerren, Thomas Naps, Rockford~J Ross, Michael Clancy, Ari
+  Korhonen, et~al.
+\newblock Enhancing learning management systems to better support computer
+  science education.
+\newblock {\em ACM SIGCSE Bulletin}, 40(4):142--166, 2008.
+
+\bibitem{rossling2010adapting}
+Guido R{\"o}{\ss}ling, Myles McNally, Pierluigi Crescenzi, Atanas Radenski,
+  Petri Ihantola, and M~Gloria S{\'a}nchez-Torrubia.
+\newblock Adapting moodle to better support cs education.
+\newblock In {\em Proceedings of the 2010 ITiCSE working group reports}, pages
+  15--27. ACM, 2010.
+
+\bibitem{runeson2012case}
+Per Runeson, Martin Host, Austen Rainer, and Bjorn Regnell.
+\newblock {\em Case study research in software engineering: Guidelines and
+  examples}.
+\newblock John Wiley \& Sons, 2012.
+
 \bibitem{seely2008open}
 John Seely~Brown.
 \newblock Open education, the long tail, and learning 2.0.
 \newblock {\em Educause review}, 43(1):16--20, 2008.
+
+\bibitem{shaw2000software}
+Mary Shaw.
+\newblock Software engineering education: a roadmap.
+\newblock In {\em Proceedings of the conference on The future of Software
+  Engineering}, pages 371--380. ACM, 2000.
 
 \bibitem{treude2012programming}
 Christoph Treude, Fernando Figueira~Filho, Brendan Cleary, and Margaret-Anne
@@ -78,9 +310,19 @@ William~M Waite, Michele~H Jackson, Amer Diwan, and Paul~M Leonardi.
 \newblock Student culture vs group work in computer science.
 \newblock {\em ACM SIGCSE Bulletin}, 36(1):12--16, 2004.
 
+\bibitem{wenger1998communities}
+Etienne Wenger.
+\newblock Communities of practice: Learning as a social system.
+\newblock {\em Systems thinker}, 9(5):2--3, 1998.
+
 \bibitem{whitehead2007collaboration}
 Jim Whitehead.
 \newblock Collaboration in software engineering: A roadmap.
 \newblock {\em FOSE}, 7(2007):214--225, 2007.
+
+\bibitem{yin2013case}
+Robert~K Yin.
+\newblock {\em Case study research: Design and methods}.
+\newblock Sage publications, 2013.
 
 \end{thebibliography}
