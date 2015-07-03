@@ -7,6 +7,7 @@ A level-1 auxiliary file: chapters/3/github.aux
 A level-1 auxiliary file: chapters/4/instructorinterviews.aux
 A level-1 auxiliary file: chapters/5/casestudies.aux
 A level-1 auxiliary file: chapters/6/discussion.aux
+A level-1 auxiliary file: chapters/7/conclusion.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Repeated entry---line 480 of file bibliography.bib
@@ -43,45 +44,45 @@ Warning--can't use both volume and number fields in meneely2009preparing
 Warning--empty journal in minocha2009study
 Warning--empty journal in O'Reilly-What-2005
 Warning--can't use both volume and number fields in reid2007drproject
-You've used 54 entries,
+You've used 55 entries,
             2118 wiz_defined-function locations,
-            819 strings with 13833 characters,
-and the built_in function-call counts, 19473 in all, are:
-= -- 2001
-> -- 777
+            824 strings with 14022 characters,
+and the built_in function-call counts, 19806 in all, are:
+= -- 2036
+> -- 790
 < -- 25
-+ -- 318
-- -- 256
-* -- 1319
-:= -- 3102
-add.period$ -- 179
-call.type$ -- 54
-change.case$ -- 283
++ -- 323
+- -- 260
+* -- 1345
+:= -- 3157
+add.period$ -- 182
+call.type$ -- 55
+change.case$ -- 288
 chr.to.int$ -- 0
-cite$ -- 61
-duplicate$ -- 801
-empty$ -- 1583
-format.name$ -- 256
-if$ -- 4187
+cite$ -- 62
+duplicate$ -- 812
+empty$ -- 1610
+format.name$ -- 260
+if$ -- 4255
 int.to.chr$ -- 0
-int.to.str$ -- 54
-missing$ -- 60
-newline$ -- 273
-num.names$ -- 108
-pop$ -- 306
+int.to.str$ -- 55
+missing$ -- 61
+newline$ -- 278
+num.names$ -- 110
+pop$ -- 309
 preamble$ -- 1
-purify$ -- 235
+purify$ -- 239
 quote$ -- 0
-skip$ -- 572
+skip$ -- 580
 stack$ -- 0
-substring$ -- 1321
-swap$ -- 228
+substring$ -- 1351
+swap$ -- 229
 text.length$ -- 25
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 204
+type$ -- 208
 warning$ -- 7
-while$ -- 212
-width$ -- 56
-write$ -- 609
+while$ -- 216
+width$ -- 57
+write$ -- 620
 (There were 2 error messages)
