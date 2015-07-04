@@ -14,29 +14,13 @@ Repeated entry---line 480 of file bibliography.bib
  : @article{junco2011effect
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 588 of file bibliography.bib
+Repeated entry---line 729 of file bibliography.bib
  : @incollection{easterbrook2008selecting
  :                                       ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Griffin:2013:GCJ:2458539.2458551"
-Warning--I didn't find a database entry for "Dabbish:2012:SCG:2145204.2145396"
-Warning--I didn't find a database entry for "wakeford2008fieldnotes"
-Warning--I didn't find a database entry for "lacey2001qualitative"
 Warning--I didn't find a database entry for "seaman1999qualitative"
-Warning--I didn't find a database entry for "malikowski2007model"
 Warning--I didn't find a database entry for "perez2013s"
-Warning--I didn't find a database entry for "kreijns2002sociability"
-Warning--I didn't find a database entry for "5942032"
-Warning--I didn't find a database entry for "lane2008toolbox"
-Warning--I didn't find a database entry for "britton2013using"
-Warning--I didn't find a database entry for "Reid:2005:LDI:1047124.1047441"
-Warning--I didn't find a database entry for "glassy2006using"
-Warning--I didn't find a database entry for "kreijns2013social"
-Warning--I didn't find a database entry for "dalsgaard2009transparency"
-Warning--I didn't find a database entry for "farooq2007supporting"
-Warning--I didn't find a database entry for "dourish1992awareness"
-Warning--I didn't find a database entry for "janssen2013coordinated"
-Warning--I didn't find a database entry for "Jenkins2006"
 Warning--can't use both volume and number fields in ben1998constructivism
 Warning--can't use both volume and number fields in bower2007groupwork
 Warning--can't use both volume and number fields in clifton2007subverting
@@ -44,45 +28,45 @@ Warning--can't use both volume and number fields in meneely2009preparing
 Warning--empty journal in minocha2009study
 Warning--empty journal in O'Reilly-What-2005
 Warning--can't use both volume and number fields in reid2007drproject
-You've used 55 entries,
+You've used 69 entries,
             2118 wiz_defined-function locations,
-            824 strings with 14022 characters,
-and the built_in function-call counts, 19806 in all, are:
-= -- 2036
-> -- 790
-< -- 25
-+ -- 323
-- -- 260
-* -- 1345
-:= -- 3157
-add.period$ -- 182
-call.type$ -- 55
-change.case$ -- 288
+            880 strings with 16039 characters,
+and the built_in function-call counts, 24865 in all, are:
+= -- 2567
+> -- 990
+< -- 30
++ -- 403
+- -- 324
+* -- 1685
+:= -- 3957
+add.period$ -- 228
+call.type$ -- 69
+change.case$ -- 361
 chr.to.int$ -- 0
-cite$ -- 62
-duplicate$ -- 812
-empty$ -- 1610
-format.name$ -- 260
-if$ -- 4255
+cite$ -- 76
+duplicate$ -- 1021
+empty$ -- 2016
+format.name$ -- 324
+if$ -- 5351
 int.to.chr$ -- 0
-int.to.str$ -- 55
-missing$ -- 61
-newline$ -- 278
-num.names$ -- 110
-pop$ -- 309
+int.to.str$ -- 69
+missing$ -- 76
+newline$ -- 348
+num.names$ -- 138
+pop$ -- 380
 preamble$ -- 1
-purify$ -- 239
+purify$ -- 299
 quote$ -- 0
-skip$ -- 580
+skip$ -- 738
 stack$ -- 0
-substring$ -- 1351
-swap$ -- 229
-text.length$ -- 25
+substring$ -- 1704
+swap$ -- 289
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 208
+type$ -- 262
 warning$ -- 7
-while$ -- 216
-width$ -- 57
-write$ -- 620
+while$ -- 272
+width$ -- 71
+write$ -- 779
 (There were 2 error messages)
