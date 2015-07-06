@@ -19,8 +19,14 @@ Generally, branching provides a good workflow for development teams, where colla
 \section{Merging \& Pull Requests}
 `Merging' is the mechanism for combining changes with each other or pulling changes in a branch or fork into the main code base. For example, a collaborator can branch or fork from the main code base and make changes to the code as they see fit, and it would remain on their branch or on their repository. In order to get the changes into the main code base, a person managing the repository, a maintainer, would have to merge the changes into it, combining whatever changes were made in the branch or fork with the code base as it is. In some cases such as when the same section of code is changed at the same time, this can result in what's called a merge conflict, which would require the user to manually pick and choose which of the changes or pieces of code they want to keep. These merge conflicts would be an issue in file types that aren't versioned by Git, such as PDF documents, as changes anywhere in the file in two different branches could create merge conflicts.
 
-`Pull Requests' (PRs) are a way of handling these merges. In a PR, the person making the changes in a branch or a fork will request to the code base maintainer to merge their code into the main trunk, otherwise known as the master branch. These PRs will be listed on GitHub in a separate tab, where collaborators can see each of the commits made, what files were changed, and the conversation surrounding the code. Collaborators can also make comments on PRs, typically when changes have to be made before a PR should be accepted or a `+1' if they think a PR is ready to be merged into the main code base.
-%add figure here
+\begin{figure}[h!]
+ \caption{An example of a Pull Request in AngularJS, a popular open-source repository.}
+ \centering
+   \includegraphics[width=0.8\textwidth]{pullRequests}
+ \label{fig:pull_requests}
+\end{figure}
+
+`Pull Requests' (PRs) are a way of handling these merges. In a PR, the person making the changes in a branch or a fork will request to the code base maintainer to merge their code into the main trunk, otherwise known as the master branch. These PRs will be listed on GitHub in a separate tab, where collaborators can see each of the commits made, what files were changed, and the conversation surrounding the code, as seen on figure \ref{fig:pull_requests}. Collaborators can also make comments on PRs, typically when changes have to be made before a PR should be accepted or a `+1' if they think a PR is ready to be merged into the main code base.
 
 \section{Issues \& Comments}
 The `issues' feature on GitHub allows for discussion between collaborators. These issues can be tagged with any label the issue creator or editor wants, such as `Bug' or `Feature', and the issues list can be filtered to only see issues of a certain tag, or see only closed or open issues. Issues can be assigned to a user, letting others know who is in charge of that issue. As well, issues can be assigned to a `Milestone', a date set by a collaborator to have certain issues completed by. PRs are also automatically posted as an issue, which gets closed when that PR gets accepted or closed. Users can comment on issues, so the issues can be used as a hub for discussions. Users can also refer to issues in commit messages, thereby displaying it in the issue: for example, an issue, when fixed by a commit, could say \textit{``collaborator closed this in d2ad525 on Oct. 25, 2014.''}
@@ -30,7 +36,14 @@ Moreover, an important feature is in the flexibility afforded to users making co
 \section{Openness \& Transparency}
 GitHub's openness and transparency features allows groups to facilitate both direct and indirect collaboration, allowing users to have a full view of activities occurring in the project. For example, users can look at the commit history to see exactly what the other collaborators are working on and changing, as they are able to see specific changes on specific commits. This history is useful, compounded by the use of the `blame' feature, in which a user can see exactly who made a specific change or line of code. %why is this useful
 
-Upon logging into GitHub, the first screen the use will see is their News Feed \footnote{\url{https://help.github.com/articles/news-feed/}}. This News Feed includes all the activity on all the repositories that the user is involved in or is `Watching', a feature described below. Any comments, pushes to code, pull requests, or created issues appear in this News Feed, allowing the user to be aware of the events happening in their repositories.
+\begin{figure}[h!]
+ \caption{An example what a user would see in the News Feed.}
+ \centering
+   \includegraphics[width=0.8\textwidth]{newsFeed}
+ \label{fig:news_feed}
+\end{figure}
+
+Upon logging into GitHub, the first screen the use will see is their News Feed \footnote{\url{https://help.github.com/articles/news-feed/}}. This News Feed includes all the activity on all the repositories that the user is involved in or is `Watching', a feature described below. Any comments, pushes to code, pull requests, or created issues appear in this News Feed, allowing the user to be aware of the events happening in their repositories. Figure \ref{fig:news_feed} is an example, where the user becomes aware of the activities happening in the repository.
 
 GitHub also includes the `Watch' feature, which has three options. If a user chooses to be `Watching' a repository, they will get notifications from the activity in that repository, including changes to the code base, new pull requests, new issues, and comments on PRs, issues, commits, or code. These notifications appear in three potential places---the user's news feed, as a notification in their notifications list, and as an email. Alternatively, a user can choose `Not Watching', meaning they will only be notified if they are specifically mentioned in a comment or commit, or in comment threads that they have participated in. Finally, they can choose `Ignoring' on a repository, which will result in not receiving any notifications for that repository in any capacity.
 
