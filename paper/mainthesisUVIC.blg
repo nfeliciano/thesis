@@ -8,6 +8,7 @@ A level-1 auxiliary file: chapters/4/instructorinterviews.aux
 A level-1 auxiliary file: chapters/5/casestudies.aux
 A level-1 auxiliary file: chapters/6/discussion.aux
 A level-1 auxiliary file: chapters/7/conclusion.aux
+A level-1 auxiliary file: chapters/appendix/appendices.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
 Repeated entry---line 480 of file bibliography.bib
@@ -30,7 +31,7 @@ Warning--empty journal in O'Reilly-What-2005
 Warning--can't use both volume and number fields in reid2007drproject
 You've used 69 entries,
             2118 wiz_defined-function locations,
-            880 strings with 16039 characters,
+            881 strings with 16071 characters,
 and the built_in function-call counts, 24865 in all, are:
 = -- 2567
 > -- 990
