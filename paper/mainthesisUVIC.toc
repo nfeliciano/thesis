@@ -85,21 +85,21 @@
 \contentsline {section}{\numberline {5.10}Limitations}{77}
 \contentsline {subsection}{\numberline {5.10.1}Internal Threats to Validity}{77}
 \contentsline {subsection}{\numberline {5.10.2}External Threats to Validity}{78}
-\contentsline {chapter}{\numberline {6}Discussion}{79}
-\contentsline {section}{\numberline {6.1}The Viability of GitHub for Education}{79}
-\contentsline {section}{\numberline {6.2}Recommendations for Educators}{81}
-\contentsline {section}{\numberline {6.3}Implications for the Future}{84}
-\contentsline {chapter}{\numberline {7}Future Work, \& Conclusions}{85}
-\contentsline {section}{\numberline {7.1}Future Work}{85}
-\contentsline {section}{\numberline {7.2}Concluding Remarks}{86}
-\contentsline {chapter}{\numberline {A}Interview Questions - Instructor Perspective}{88}
-\contentsline {section}{\numberline {A.1}Instructor Interviews}{88}
-\contentsline {section}{\numberline {A.2}Interview with GitHub Representative}{90}
-\contentsline {chapter}{\numberline {B}Interview Questions - Student Perspective}{91}
-\contentsline {section}{\numberline {B.1}Student Interviews}{91}
-\contentsline {section}{\numberline {B.2}Course Instructor Interview}{92}
-\contentsline {section}{\numberline {B.3}Lab Instructor Interviews}{93}
-\contentsline {chapter}{\numberline {C}Questionnaire \& Survey - Student Perspective}{94}
-\contentsline {section}{\numberline {C.1}Questionnaire}{94}
-\contentsline {section}{\numberline {C.2}Validation Survey}{95}
-\contentsline {chapter}{Bibliography}{98}
+\contentsline {chapter}{\numberline {6}Discussion}{80}
+\contentsline {section}{\numberline {6.1}The Viability of GitHub for Education}{80}
+\contentsline {section}{\numberline {6.2}Recommendations for Educators}{82}
+\contentsline {section}{\numberline {6.3}Implications for the Future}{85}
+\contentsline {chapter}{\numberline {7}Future Work, \& Conclusions}{86}
+\contentsline {section}{\numberline {7.1}Future Work}{86}
+\contentsline {section}{\numberline {7.2}Concluding Remarks}{87}
+\contentsline {chapter}{\numberline {A}Interview Questions - Instructor Perspective}{89}
+\contentsline {section}{\numberline {A.1}Instructor Interviews}{89}
+\contentsline {section}{\numberline {A.2}Interview with GitHub Representative}{91}
+\contentsline {chapter}{\numberline {B}Interview Questions - Student Perspective}{92}
+\contentsline {section}{\numberline {B.1}Student Interviews}{92}
+\contentsline {section}{\numberline {B.2}Course Instructor Interview}{93}
+\contentsline {section}{\numberline {B.3}Lab Instructor Interviews}{94}
+\contentsline {chapter}{\numberline {C}Questionnaire \& Survey - Student Perspective}{95}
+\contentsline {section}{\numberline {C.1}Questionnaire}{95}
+\contentsline {section}{\numberline {C.2}Validation Survey}{96}
+\contentsline {chapter}{Bibliography}{99}

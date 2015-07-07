@@ -19,7 +19,6 @@ Repeated entry---line 729 of file bibliography.bib
  : @incollection{easterbrook2008selecting
  :                                       ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Griffin:2013:GCJ:2458539.2458551"
 Warning--I didn't find a database entry for "seaman1999qualitative"
 Warning--I didn't find a database entry for "perez2013s"
 Warning--can't use both volume and number fields in ben1998constructivism
@@ -31,7 +30,7 @@ Warning--empty journal in O'Reilly-What-2005
 Warning--can't use both volume and number fields in reid2007drproject
 You've used 69 entries,
             2118 wiz_defined-function locations,
-            881 strings with 16071 characters,
+            879 strings with 16007 characters,
 and the built_in function-call counts, 24865 in all, are:
 = -- 2567
 > -- 990
