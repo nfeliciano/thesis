@@ -59,27 +59,27 @@
 \contentsline {subsection}{\numberline {4.4.4}Limitations}{43}{subsection.4.4.4}
 \contentsline {chapter}{\numberline {5}The Student Perspective}{44}{chapter.5}
 \contentsline {section}{\numberline {5.1}Research Questions}{45}{section.5.1}
-\contentsline {section}{\numberline {5.2}Research Design}{46}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Recruitment}{47}{subsection.5.2.1}
+\contentsline {section}{\numberline {5.2}Research Design}{45}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Recruitment}{46}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Research Methods}{47}{subsection.5.2.2}
 \contentsline {section}{\numberline {5.3}Preliminary Questionnaire}{48}{section.5.3}
 \contentsline {section}{\numberline {5.4}Participants}{49}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Data Analysis}{49}{subsection.5.4.1}
-\contentsline {section}{\numberline {5.5}How GitHub was used}{49}{section.5.5}
+\contentsline {subsection}{\numberline {5.4.1}Data Analysis}{50}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.5}How GitHub was used}{50}{section.5.5}
 \contentsline {section}{\numberline {5.6}Findings}{51}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}RQ1: What are computer science and software engineering student perceptions on the benefits of using GitHub for their courses?}{52}{subsection.5.6.1}
-\contentsline {subsection}{\numberline {5.6.2}RQ2: What are the challenges for students related to the use of GitHub in their classes?}{59}{subsection.5.6.2}
-\contentsline {subsection}{\numberline {5.6.3}RQ3: What are student recommendations towards how instructors should use GitHub in a course?}{64}{subsection.5.6.3}
-\contentsline {subsection}{\numberline {5.6.4}RQ4: How do students feel that GitHub as a tool compares to more traditional Learning Management Systems?}{68}{subsection.5.6.4}
-\contentsline {section}{\numberline {5.7}Validation Survey}{71}{section.5.7}
-\contentsline {section}{\numberline {5.8}Instructors' Perspectives}{72}{section.5.8}
+\contentsline {subsection}{\numberline {5.6.1}RQ1: What are computer science and software engineering student perceptions on the benefits of using GitHub for their courses?}{51}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}RQ2: Will students face challenges related to the use of GitHub in their courses? If so, what are these challenges?}{59}{subsection.5.6.2}
+\contentsline {subsection}{\numberline {5.6.3}RQ3: What are student recommendations for instructors wishing to use GitHub in a course?}{63}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.4}RQ4: How do students feel that GitHub as a tool compares to more traditional Learning Management Systems?}{67}{subsection.5.6.4}
+\contentsline {section}{\numberline {5.7}Validation Survey}{70}{section.5.7}
+\contentsline {section}{\numberline {5.8}Instructors' Perspectives}{71}{section.5.8}
 \contentsline {subsection}{\numberline {5.8.1}Course Instructor}{72}{subsection.5.8.1}
-\contentsline {subsection}{\numberline {5.8.2}Lab Instructors}{74}{subsection.5.8.2}
-\contentsline {section}{\numberline {5.9}Discussion}{76}{section.5.9}
-\contentsline {subsection}{\numberline {5.9.1}A Student-Oriented Learning Tool}{76}{subsection.5.9.1}
-\contentsline {section}{\numberline {5.10}Limitations}{79}{section.5.10}
-\contentsline {subsection}{\numberline {5.10.1}Internal Threats to Validity}{79}{subsection.5.10.1}
-\contentsline {subsection}{\numberline {5.10.2}External Threats to Validity}{80}{subsection.5.10.2}
+\contentsline {subsection}{\numberline {5.8.2}Lab Instructors}{73}{subsection.5.8.2}
+\contentsline {section}{\numberline {5.9}Discussion}{75}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}A Student-Oriented Learning Tool}{75}{subsection.5.9.1}
+\contentsline {section}{\numberline {5.10}Limitations}{78}{section.5.10}
+\contentsline {subsection}{\numberline {5.10.1}Internal Threats to Validity}{78}{subsection.5.10.1}
+\contentsline {subsection}{\numberline {5.10.2}External Threats to Validity}{79}{subsection.5.10.2}
 \contentsline {chapter}{\numberline {6}Discussion}{81}{chapter.6}
 \contentsline {section}{\numberline {6.1}The Viability of GitHub for Education}{81}{section.6.1}
 \contentsline {section}{\numberline {6.2}Recommendations for Educators}{83}{section.6.2}
