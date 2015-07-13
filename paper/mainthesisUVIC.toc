@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {3.2}Git: Distributed Version Control}{18}{section.3.2}
 \contentsline {section}{\numberline {3.3}Branching and Forking}{18}{section.3.3}
 \contentsline {section}{\numberline {3.4}Merging and Pull Requests}{19}{section.3.4}
-\contentsline {section}{\numberline {3.5}Issues and Comments}{19}{section.3.5}
+\contentsline {section}{\numberline {3.5}Issues and Comments}{20}{section.3.5}
 \contentsline {section}{\numberline {3.6}Openness \& Transparency}{20}{section.3.6}
 \contentsline {section}{\numberline {3.7}Why GitHub for Education?}{21}{section.3.7}
 \contentsline {chapter}{\numberline {4}The Instructor Perspective}{24}{chapter.4}
@@ -30,7 +30,7 @@
 \contentsline {subsection}{\numberline {4.2.3}Data Analysis}{27}{subsection.4.2.3}
 \contentsline {section}{\numberline {4.3}Findings}{28}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}RQ1: How does GitHub support learning and teaching?}{28}{subsection.4.3.1}
-\contentsline {subsubsection}{GitHub as a Submission Platform}{29}{section*.12}
+\contentsline {subsubsection}{GitHub as a Submission Platform}{28}{section*.12}
 \contentsline {subsubsection}{Hosting Course Material}{30}{section*.13}
 \contentsline {subsection}{\numberline {4.3.2}RQ2: What are the motivations and benefits of using GitHub for education?}{30}{subsection.4.3.2}
 \contentsline {subsubsection}{Transparency of Activity}{30}{section*.14}
@@ -51,12 +51,12 @@
 \contentsline {section}{\numberline {4.4}Discussion}{40}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Comparing GitHub to Traditional LMSs}{40}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Going Beyond Traditional LMSs}{40}{subsection.4.4.2}
-\contentsline {subsubsection}{Version Control}{41}{section*.26}
+\contentsline {subsubsection}{Version Control}{40}{section*.26}
 \contentsline {subsubsection}{Transparency \& Awareness}{41}{section*.27}
 \contentsline {subsubsection}{Student Engagement \& Participation}{41}{section*.28}
 \contentsline {subsubsection}{Reusing and Remixing}{42}{section*.29}
 \contentsline {subsection}{\numberline {4.4.3}Not Just GitHub}{42}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Limitations}{43}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.4}Limitations}{42}{subsection.4.4.4}
 \contentsline {chapter}{\numberline {5}The Student Perspective}{44}{chapter.5}
 \contentsline {section}{\numberline {5.1}Research Questions}{45}{section.5.1}
 \contentsline {section}{\numberline {5.2}Research Design}{45}{section.5.2}
@@ -64,7 +64,7 @@
 \contentsline {subsection}{\numberline {5.2.2}Research Methods}{47}{subsection.5.2.2}
 \contentsline {section}{\numberline {5.3}Preliminary Questionnaire}{48}{section.5.3}
 \contentsline {section}{\numberline {5.4}Participants}{49}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Data Analysis}{50}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.1}Data Analysis}{49}{subsection.5.4.1}
 \contentsline {section}{\numberline {5.5}How GitHub was used}{50}{section.5.5}
 \contentsline {section}{\numberline {5.6}Findings}{51}{section.5.6}
 \contentsline {subsection}{\numberline {5.6.1}RQ1: What are computer science and software engineering student perceptions on the benefits of using GitHub for their courses?}{51}{subsection.5.6.1}
