@@ -3,77 +3,76 @@
 \BOOKMARK [0][-]{section*.3}{Table of Contents}{}% 3
 \BOOKMARK [0][-]{section*.4}{List of Tables}{}% 4
 \BOOKMARK [0][-]{section*.5}{List of Figures}{}% 5
-\BOOKMARK [0][-]{section*.6}{Acknowledgements}{}% 6
-\BOOKMARK [0][-]{section*.7}{Dedication}{}% 7
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 8
-\BOOKMARK [1][-]{section.1.1}{Problem Statement}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.2}{Motivation}{chapter.1}% 10
-\BOOKMARK [1][-]{section.1.3}{Research Questions}{chapter.1}% 11
-\BOOKMARK [1][-]{section.1.4}{Research Approach}{chapter.1}% 12
-\BOOKMARK [1][-]{section.1.5}{Thesis Organization}{chapter.1}% 13
-\BOOKMARK [0][-]{chapter.2}{Background}{}% 14
-\BOOKMARK [0][-]{chapter.3}{The GitHub Way}{}% 15
-\BOOKMARK [1][-]{section.3.1}{What is GitHub?}{chapter.3}% 16
-\BOOKMARK [1][-]{section.3.2}{Git: Distributed Version Control}{chapter.3}% 17
-\BOOKMARK [1][-]{section.3.3}{Branching and Forking}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.4}{Merging and Pull Requests}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.5}{Issues and Comments}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.6}{Openness \046 Transparency}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.7}{Why GitHub for Education?}{chapter.3}% 22
-\BOOKMARK [0][-]{chapter.4}{The Instructor Perspective}{}% 23
-\BOOKMARK [1][-]{section.4.1}{Research Questions}{chapter.4}% 24
-\BOOKMARK [1][-]{section.4.2}{Research Design}{chapter.4}% 25
-\BOOKMARK [2][-]{subsection.4.2.1}{Participants}{section.4.2}% 26
-\BOOKMARK [2][-]{subsection.4.2.2}{Data Collection}{section.4.2}% 27
-\BOOKMARK [2][-]{subsection.4.2.3}{Data Analysis}{section.4.2}% 28
-\BOOKMARK [1][-]{section.4.3}{Findings}{chapter.4}% 29
-\BOOKMARK [2][-]{subsection.4.3.1}{RQ1: How does GitHub support learning and teaching?}{section.4.3}% 30
-\BOOKMARK [2][-]{subsection.4.3.2}{RQ2: What are the motivations and benefits of using GitHub for education?}{section.4.3}% 31
-\BOOKMARK [2][-]{subsection.4.3.3}{RQ3: What challenges are related to the use of GitHub for education?}{section.4.3}% 32
-\BOOKMARK [2][-]{subsection.4.3.4}{GitHub's Perspective}{section.4.3}% 33
-\BOOKMARK [2][-]{subsection.4.3.5}{Follow-up Survey}{section.4.3}% 34
-\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 35
-\BOOKMARK [2][-]{subsection.4.4.1}{Comparing GitHub to Traditional LMSs}{section.4.4}% 36
-\BOOKMARK [2][-]{subsection.4.4.2}{Going Beyond Traditional LMSs}{section.4.4}% 37
-\BOOKMARK [2][-]{subsection.4.4.3}{Not Just GitHub}{section.4.4}% 38
-\BOOKMARK [2][-]{subsection.4.4.4}{Limitations}{section.4.4}% 39
-\BOOKMARK [0][-]{chapter.5}{The Student Perspective}{}% 40
-\BOOKMARK [1][-]{section.5.1}{Research Questions}{chapter.5}% 41
-\BOOKMARK [1][-]{section.5.2}{Research Design}{chapter.5}% 42
-\BOOKMARK [2][-]{subsection.5.2.1}{Recruitment}{section.5.2}% 43
-\BOOKMARK [2][-]{subsection.5.2.2}{Research Methods}{section.5.2}% 44
-\BOOKMARK [1][-]{section.5.3}{Preliminary Questionnaire}{chapter.5}% 45
-\BOOKMARK [1][-]{section.5.4}{Participants}{chapter.5}% 46
-\BOOKMARK [2][-]{subsection.5.4.1}{Data Analysis}{section.5.4}% 47
-\BOOKMARK [1][-]{section.5.5}{How GitHub was used}{chapter.5}% 48
-\BOOKMARK [1][-]{section.5.6}{Findings}{chapter.5}% 49
-\BOOKMARK [2][-]{subsection.5.6.1}{RQ1: What are computer science and software engineering student perceptions on the benefits of using GitHub for their courses?}{section.5.6}% 50
-\BOOKMARK [2][-]{subsection.5.6.2}{RQ2: Will students face challenges related to the use of GitHub in their courses? If so, what are these challenges?}{section.5.6}% 51
-\BOOKMARK [2][-]{subsection.5.6.3}{RQ3: What are student recommendations for instructors wishing to use GitHub in a course?}{section.5.6}% 52
-\BOOKMARK [2][-]{subsection.5.6.4}{RQ4: From the student perspective, how does GitHub compare to traditional Learning Management Systems?}{section.5.6}% 53
-\BOOKMARK [1][-]{section.5.7}{Validation Survey}{chapter.5}% 54
-\BOOKMARK [1][-]{section.5.8}{Instructors' Perspectives}{chapter.5}% 55
-\BOOKMARK [2][-]{subsection.5.8.1}{Insights from the Course Instructor}{section.5.8}% 56
-\BOOKMARK [2][-]{subsection.5.8.2}{Insights from Lab Instructors}{section.5.8}% 57
-\BOOKMARK [1][-]{section.5.9}{Discussion}{chapter.5}% 58
-\BOOKMARK [1][-]{section.5.10}{Limitations}{chapter.5}% 59
-\BOOKMARK [2][-]{subsection.5.10.1}{Internal Threats to Validity}{section.5.10}% 60
-\BOOKMARK [2][-]{subsection.5.10.2}{External Threats to Validity}{section.5.10}% 61
-\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 62
-\BOOKMARK [1][-]{section.6.1}{The Viability of GitHub for Education}{chapter.6}% 63
-\BOOKMARK [1][-]{section.6.2}{Recommendations for Educators}{chapter.6}% 64
-\BOOKMARK [1][-]{section.6.3}{Implications for the Future}{chapter.6}% 65
-\BOOKMARK [0][-]{chapter.7}{Future Work and Conclusions}{}% 66
-\BOOKMARK [1][-]{section.7.1}{Future Work}{chapter.7}% 67
-\BOOKMARK [1][-]{section.7.2}{Concluding Remarks}{chapter.7}% 68
-\BOOKMARK [0][-]{appendix.A}{Interview Questions - Instructor Perspective}{}% 69
-\BOOKMARK [1][-]{section.A.1}{Instructor Interviews}{appendix.A}% 70
-\BOOKMARK [1][-]{section.A.2}{Interview with GitHub Representative}{appendix.A}% 71
-\BOOKMARK [0][-]{appendix.B}{Interview Questions - Case Study}{}% 72
-\BOOKMARK [1][-]{section.B.1}{Student Interviews}{appendix.B}% 73
-\BOOKMARK [1][-]{section.B.2}{Course Instructor Interview}{appendix.B}% 74
-\BOOKMARK [1][-]{section.B.3}{Lab Instructor Interviews}{appendix.B}% 75
-\BOOKMARK [0][-]{appendix.C}{Questionnaire \046 Survey - Student Perspective}{}% 76
-\BOOKMARK [1][-]{section.C.1}{Questionnaire}{appendix.C}% 77
-\BOOKMARK [1][-]{section.C.2}{Validation Survey}{appendix.C}% 78
-\BOOKMARK [0][-]{section*.33}{Bibliography}{}% 79
+\BOOKMARK [0][-]{section*.6}{Dedication}{}% 6
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 7
+\BOOKMARK [1][-]{section.1.1}{Problem Statement}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.2}{Motivation}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.3}{Research Questions}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.4}{Research Approach}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.5}{Thesis Organization}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Background}{}% 13
+\BOOKMARK [0][-]{chapter.3}{The GitHub Way}{}% 14
+\BOOKMARK [1][-]{section.3.1}{What is GitHub?}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{Git: Distributed Version Control}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.3}{Branching and Forking}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.4}{Merging and Pull Requests}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.5}{Issues and Comments}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.6}{Openness \046 Transparency}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.7}{Why GitHub for Education?}{chapter.3}% 21
+\BOOKMARK [0][-]{chapter.4}{The Instructor Perspective}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Research Questions}{chapter.4}% 23
+\BOOKMARK [1][-]{section.4.2}{Research Design}{chapter.4}% 24
+\BOOKMARK [2][-]{subsection.4.2.1}{Participants}{section.4.2}% 25
+\BOOKMARK [2][-]{subsection.4.2.2}{Data Collection}{section.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.2.3}{Data Analysis}{section.4.2}% 27
+\BOOKMARK [1][-]{section.4.3}{Findings}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.3.1}{RQ1: How does GitHub support learning and teaching?}{section.4.3}% 29
+\BOOKMARK [2][-]{subsection.4.3.2}{RQ2: What are the motivations and benefits of using GitHub for education?}{section.4.3}% 30
+\BOOKMARK [2][-]{subsection.4.3.3}{RQ3: What challenges are related to the use of GitHub for education?}{section.4.3}% 31
+\BOOKMARK [2][-]{subsection.4.3.4}{GitHub's Perspective}{section.4.3}% 32
+\BOOKMARK [2][-]{subsection.4.3.5}{Follow-up Survey}{section.4.3}% 33
+\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.4.1}{Comparing GitHub to Traditional LMSs}{section.4.4}% 35
+\BOOKMARK [2][-]{subsection.4.4.2}{Going Beyond Traditional LMSs}{section.4.4}% 36
+\BOOKMARK [2][-]{subsection.4.4.3}{Not Just GitHub}{section.4.4}% 37
+\BOOKMARK [2][-]{subsection.4.4.4}{Limitations}{section.4.4}% 38
+\BOOKMARK [0][-]{chapter.5}{The Student Perspective}{}% 39
+\BOOKMARK [1][-]{section.5.1}{Research Questions}{chapter.5}% 40
+\BOOKMARK [1][-]{section.5.2}{Research Design}{chapter.5}% 41
+\BOOKMARK [2][-]{subsection.5.2.1}{Recruitment}{section.5.2}% 42
+\BOOKMARK [2][-]{subsection.5.2.2}{Research Methods}{section.5.2}% 43
+\BOOKMARK [1][-]{section.5.3}{Preliminary Questionnaire}{chapter.5}% 44
+\BOOKMARK [1][-]{section.5.4}{Interview Participants}{chapter.5}% 45
+\BOOKMARK [2][-]{subsection.5.4.1}{Data Analysis}{section.5.4}% 46
+\BOOKMARK [1][-]{section.5.5}{How GitHub was used}{chapter.5}% 47
+\BOOKMARK [1][-]{section.5.6}{Findings}{chapter.5}% 48
+\BOOKMARK [2][-]{subsection.5.6.1}{RQ1: What are computer science and software engineering student perceptions on the benefits of using GitHub for their courses?}{section.5.6}% 49
+\BOOKMARK [2][-]{subsection.5.6.2}{RQ2: Will students face challenges related to the use of GitHub in their courses? If so, what are these challenges?}{section.5.6}% 50
+\BOOKMARK [2][-]{subsection.5.6.3}{RQ3: What are student recommendations for instructors wishing to use GitHub in a course?}{section.5.6}% 51
+\BOOKMARK [2][-]{subsection.5.6.4}{RQ4: From the student perspective, how does GitHub compare to traditional Learning Management Systems?}{section.5.6}% 52
+\BOOKMARK [1][-]{section.5.7}{Validation Survey}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.8}{Instructors' Perspectives}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.8.1}{Insights from the Course Instructor}{section.5.8}% 55
+\BOOKMARK [2][-]{subsection.5.8.2}{Insights from Lab Instructors}{section.5.8}% 56
+\BOOKMARK [1][-]{section.5.9}{Discussion}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.10}{Limitations}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.10.1}{Internal Threats to Validity}{section.5.10}% 59
+\BOOKMARK [2][-]{subsection.5.10.2}{External Threats to Validity}{section.5.10}% 60
+\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 61
+\BOOKMARK [1][-]{section.6.1}{The Viability of GitHub for Education}{chapter.6}% 62
+\BOOKMARK [1][-]{section.6.2}{Recommendations for Educators}{chapter.6}% 63
+\BOOKMARK [1][-]{section.6.3}{Implications for the Future}{chapter.6}% 64
+\BOOKMARK [0][-]{chapter.7}{Future Work and Conclusions}{}% 65
+\BOOKMARK [1][-]{section.7.1}{Future Work}{chapter.7}% 66
+\BOOKMARK [1][-]{section.7.2}{Concluding Remarks}{chapter.7}% 67
+\BOOKMARK [0][-]{appendix.A}{Interview Questions - Instructor Perspective}{}% 68
+\BOOKMARK [1][-]{section.A.1}{Instructor Interviews}{appendix.A}% 69
+\BOOKMARK [1][-]{section.A.2}{Interview with GitHub Representative}{appendix.A}% 70
+\BOOKMARK [0][-]{appendix.B}{Interview Questions - Case Study}{}% 71
+\BOOKMARK [1][-]{section.B.1}{Student Interviews}{appendix.B}% 72
+\BOOKMARK [1][-]{section.B.2}{Course Instructor Interview}{appendix.B}% 73
+\BOOKMARK [1][-]{section.B.3}{Lab Instructor Interviews}{appendix.B}% 74
+\BOOKMARK [0][-]{appendix.C}{Questionnaire \046 Survey - Student Perspective}{}% 75
+\BOOKMARK [1][-]{section.C.1}{Questionnaire}{appendix.C}% 76
+\BOOKMARK [1][-]{section.C.2}{Validation Survey}{appendix.C}% 77
+\BOOKMARK [0][-]{section*.32}{Bibliography}{}% 78
