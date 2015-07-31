@@ -323,6 +323,13 @@ Manoj Parameswaran and Andrew~B Whinston.
 \newblock {\em Communications of the Association for Information Systems},
   19(1):37, 2007.
 
+\bibitem{perez2013s}
+Santiago Perez De~Rosso and Daniel Jackson.
+\newblock What's wrong with git?: a conceptual design analysis.
+\newblock In {\em Proceedings of the 2013 ACM international symposium on New
+  ideas, new paradigms, and reflections on programming \& software}, pages
+  37--52. ACM, 2013.
+
 \bibitem{reid2005learning}
 Karen~L Reid and Gregory~V Wilson.
 \newblock Learning by doing: introducing version control as a way to manage
@@ -355,6 +362,12 @@ Per Runeson, Martin Host, Austen Rainer, and Bjorn Regnell.
 \newblock {\em Case study research in software engineering: Guidelines and
   examples}.
 \newblock John Wiley \& Sons, 2012.
+
+\bibitem{seaman1999qualitative}
+Carolyn~B. Seaman.
+\newblock Qualitative methods in empirical studies of software engineering.
+\newblock {\em Software Engineering, IEEE Transactions on}, 25(4):557--572,
+  1999.
 
 \bibitem{seely2008open}
 John Seely~Brown.
