@@ -48,8 +48,8 @@
 \contentsline {subsection}{\numberline {4.3.4}GitHub's Perspective}{40}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Follow-up Survey}{41}{subsection.4.3.5}
 \contentsline {section}{\numberline {4.4}Discussion}{42}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Comparing GitHub to Traditional LMSs}{42}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Going Beyond Traditional LMSs}{43}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.1}Comparing GitHub to Traditional LMSes}{42}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Going Beyond Traditional LMSes}{43}{subsection.4.4.2}
 \contentsline {subsubsection}{Version Control}{43}{section*.28}
 \contentsline {subsubsection}{Transparency \& Awareness}{43}{section*.29}
 \contentsline {subsubsection}{Student Engagement \& Participation}{44}{section*.30}
