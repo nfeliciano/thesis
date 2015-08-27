@@ -1,9 +1,10 @@
 \contentsline {chapter}{Supervisory Committee}{ii}{section*.1}
 \contentsline {chapter}{Abstract}{iii}{section*.2}
 \contentsline {chapter}{Table of Contents}{v}{section*.3}
-\contentsline {chapter}{List of Tables}{viii}{section*.4}
-\contentsline {chapter}{List of Figures}{ix}{section*.5}
-\contentsline {chapter}{Dedication}{x}{section*.6}
+\contentsline {chapter}{List of Tables}{ix}{section*.4}
+\contentsline {chapter}{List of Figures}{x}{section*.5}
+\contentsline {chapter}{Acknowledgements}{xi}{section*.6}
+\contentsline {chapter}{Dedication}{xii}{section*.7}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Problem Statement}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}Motivation}{3}{section.1.2}
@@ -23,37 +24,37 @@
 \contentsline {section}{\numberline {4.1}Research Questions}{26}{section.4.1}
 \contentsline {section}{\numberline {4.2}Research Design}{26}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Participants}{27}{subsection.4.2.1}
-\contentsline {subsubsection}{Interview Participants}{27}{section*.8}
-\contentsline {subsubsection}{Follow-up Survey Respondents}{28}{section*.10}
+\contentsline {subsubsection}{Interview Participants}{27}{section*.9}
+\contentsline {subsubsection}{Follow-up Survey Respondents}{28}{section*.11}
 \contentsline {subsection}{\numberline {4.2.2}Data Collection}{28}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Data Analysis}{28}{subsection.4.2.3}
 \contentsline {section}{\numberline {4.3}Findings}{29}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}RQ1: How does GitHub support learning and teaching?}{29}{subsection.4.3.1}
-\contentsline {subsubsection}{GitHub as a Submission Platform}{30}{section*.12}
-\contentsline {subsubsection}{Hosting Course Material}{31}{section*.13}
+\contentsline {subsubsection}{GitHub as a Submission Platform}{30}{section*.13}
+\contentsline {subsubsection}{Hosting Course Material}{31}{section*.14}
 \contentsline {subsection}{\numberline {4.3.2}RQ2: What are the motivations and benefits of using GitHub for education?}{31}{subsection.4.3.2}
-\contentsline {subsubsection}{Transparency of Activity}{31}{section*.15}
-\contentsline {subsubsection}{Encourage Participation}{33}{section*.16}
-\contentsline {subsubsection}{Reuse and Sharing of Course Materials and Knowledge}{34}{section*.17}
-\contentsline {subsubsection}{Industry Relevance}{35}{section*.18}
-\contentsline {subsubsection}{Ease of Use}{36}{section*.19}
-\contentsline {subsubsection}{Free Academic Licenses}{36}{section*.20}
-\contentsline {subsubsection}{Shared Space and Course Versioning}{36}{section*.21}
+\contentsline {subsubsection}{Transparency of Activity}{31}{section*.16}
+\contentsline {subsubsection}{Encourage Participation}{33}{section*.17}
+\contentsline {subsubsection}{Reuse and Sharing of Course Materials and Knowledge}{34}{section*.18}
+\contentsline {subsubsection}{Industry Relevance}{35}{section*.19}
+\contentsline {subsubsection}{Ease of Use}{35}{section*.20}
+\contentsline {subsubsection}{Free Academic Licenses}{36}{section*.21}
+\contentsline {subsubsection}{Shared Space and Course Versioning}{36}{section*.22}
 \contentsline {subsection}{\numberline {4.3.3}RQ3: What challenges are related to the use of GitHub for education?}{37}{subsection.4.3.3}
-\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{38}{section*.23}
-\contentsline {subsubsection}{Barriers to Entry}{38}{section*.24}
-\contentsline {subsubsection}{Support for Additional Formats}{39}{section*.25}
-\contentsline {subsubsection}{External Restrictions}{39}{section*.26}
-\contentsline {subsubsection}{Large-scale Management}{40}{section*.27}
+\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{37}{section*.24}
+\contentsline {subsubsection}{Barriers to Entry}{38}{section*.25}
+\contentsline {subsubsection}{Support for Additional Formats}{38}{section*.26}
+\contentsline {subsubsection}{External Restrictions}{39}{section*.27}
+\contentsline {subsubsection}{Large-scale Management}{39}{section*.28}
 \contentsline {subsection}{\numberline {4.3.4}GitHub's Perspective}{40}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Follow-up Survey}{41}{subsection.4.3.5}
 \contentsline {section}{\numberline {4.4}Discussion}{42}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Comparing GitHub to Traditional LMSes}{42}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Going Beyond Traditional LMSes}{43}{subsection.4.4.2}
-\contentsline {subsubsection}{Version Control}{43}{section*.28}
-\contentsline {subsubsection}{Transparency \& Awareness}{43}{section*.29}
-\contentsline {subsubsection}{Student Engagement \& Participation}{44}{section*.30}
-\contentsline {subsubsection}{Reusing and Remixing}{44}{section*.31}
+\contentsline {subsubsection}{Version Control}{43}{section*.29}
+\contentsline {subsubsection}{Transparency \& Awareness}{43}{section*.30}
+\contentsline {subsubsection}{Student Engagement \& Participation}{44}{section*.31}
+\contentsline {subsubsection}{Reusing and Remixing}{44}{section*.32}
 \contentsline {subsection}{\numberline {4.4.3}Not Just GitHub}{45}{subsection.4.4.3}
 \contentsline {subsection}{\numberline {4.4.4}Limitations}{45}{subsection.4.4.4}
 \contentsline {chapter}{\numberline {5}The Student Perspective}{46}{chapter.5}
@@ -96,4 +97,4 @@
 \contentsline {chapter}{\numberline {C}Questionnaire \& Survey - Student Perspective}{105}{appendix.C}
 \contentsline {section}{\numberline {C.1}Questionnaire}{105}{section.C.1}
 \contentsline {section}{\numberline {C.2}Validation Survey}{106}{section.C.2}
-\contentsline {chapter}{Bibliography}{109}{section*.41}
+\contentsline {chapter}{Bibliography}{109}{section*.42}
