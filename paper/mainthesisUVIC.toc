@@ -36,15 +36,15 @@
 \contentsline {subsubsection}{Encourage Participation}{33}{section*.16}
 \contentsline {subsubsection}{Reuse and Sharing of Course Materials and Knowledge}{34}{section*.17}
 \contentsline {subsubsection}{Industry Relevance}{35}{section*.18}
-\contentsline {subsubsection}{Ease of Use}{35}{section*.19}
+\contentsline {subsubsection}{Ease of Use}{36}{section*.19}
 \contentsline {subsubsection}{Free Academic Licenses}{36}{section*.20}
 \contentsline {subsubsection}{Shared Space and Course Versioning}{36}{section*.21}
 \contentsline {subsection}{\numberline {4.3.3}RQ3: What challenges are related to the use of GitHub for education?}{37}{subsection.4.3.3}
-\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{37}{section*.23}
+\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{38}{section*.23}
 \contentsline {subsubsection}{Barriers to Entry}{38}{section*.24}
-\contentsline {subsubsection}{Support for Additional Formats}{38}{section*.25}
+\contentsline {subsubsection}{Support for Additional Formats}{39}{section*.25}
 \contentsline {subsubsection}{External Restrictions}{39}{section*.26}
-\contentsline {subsubsection}{Large-scale Management}{39}{section*.27}
+\contentsline {subsubsection}{Large-scale Management}{40}{section*.27}
 \contentsline {subsection}{\numberline {4.3.4}GitHub's Perspective}{40}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Follow-up Survey}{41}{subsection.4.3.5}
 \contentsline {section}{\numberline {4.4}Discussion}{42}{section.4.4}
@@ -81,19 +81,19 @@
 \contentsline {subsection}{\numberline {5.10.3}Standards of Rigor}{85}{subsection.5.10.3}
 \contentsline {chapter}{\numberline {6}Discussion}{86}{chapter.6}
 \contentsline {section}{\numberline {6.1}The Viability of GitHub for Education}{86}{section.6.1}
-\contentsline {section}{\numberline {6.2}Recommendations for Educators}{90}{section.6.2}
+\contentsline {section}{\numberline {6.2}Recommendations for Educators}{88}{section.6.2}
 \contentsline {section}{\numberline {6.3}Implications for the Future}{93}{section.6.3}
-\contentsline {chapter}{\numberline {7}Future Work and Conclusions}{95}{chapter.7}
-\contentsline {section}{\numberline {7.1}Future Work}{95}{section.7.1}
-\contentsline {section}{\numberline {7.2}Concluding Remarks}{96}{section.7.2}
-\contentsline {chapter}{\numberline {A}Interview Questions - Instructor Perspective}{98}{appendix.A}
-\contentsline {section}{\numberline {A.1}Instructor Interviews}{98}{section.A.1}
-\contentsline {section}{\numberline {A.2}Interview with GitHub Representative}{100}{section.A.2}
-\contentsline {chapter}{\numberline {B}Interview Questions - Case Study}{101}{appendix.B}
-\contentsline {section}{\numberline {B.1}Student Interviews}{101}{section.B.1}
-\contentsline {section}{\numberline {B.2}Course Instructor Interview}{102}{section.B.2}
-\contentsline {section}{\numberline {B.3}Lab Instructor Interviews}{103}{section.B.3}
-\contentsline {chapter}{\numberline {C}Questionnaire \& Survey - Student Perspective}{104}{appendix.C}
-\contentsline {section}{\numberline {C.1}Questionnaire}{104}{section.C.1}
-\contentsline {section}{\numberline {C.2}Validation Survey}{105}{section.C.2}
-\contentsline {chapter}{Bibliography}{108}{section*.41}
+\contentsline {chapter}{\numberline {7}Future Work and Conclusions}{96}{chapter.7}
+\contentsline {section}{\numberline {7.1}Future Work}{96}{section.7.1}
+\contentsline {section}{\numberline {7.2}Concluding Remarks}{97}{section.7.2}
+\contentsline {chapter}{\numberline {A}Interview Questions - Instructor Perspective}{99}{appendix.A}
+\contentsline {section}{\numberline {A.1}Instructor Interviews}{99}{section.A.1}
+\contentsline {section}{\numberline {A.2}Interview with GitHub Representative}{101}{section.A.2}
+\contentsline {chapter}{\numberline {B}Interview Questions - Case Study}{102}{appendix.B}
+\contentsline {section}{\numberline {B.1}Student Interviews}{102}{section.B.1}
+\contentsline {section}{\numberline {B.2}Course Instructor Interview}{103}{section.B.2}
+\contentsline {section}{\numberline {B.3}Lab Instructor Interviews}{104}{section.B.3}
+\contentsline {chapter}{\numberline {C}Questionnaire \& Survey - Student Perspective}{105}{appendix.C}
+\contentsline {section}{\numberline {C.1}Questionnaire}{105}{section.C.1}
+\contentsline {section}{\numberline {C.2}Validation Survey}{106}{section.C.2}
+\contentsline {chapter}{Bibliography}{109}{section*.41}
