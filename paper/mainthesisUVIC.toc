@@ -37,15 +37,15 @@
 \contentsline {subsubsection}{Encourage Participation}{33}{section*.17}
 \contentsline {subsubsection}{Reuse and Sharing of Course Materials and Knowledge}{34}{section*.18}
 \contentsline {subsubsection}{Industry Relevance}{35}{section*.19}
-\contentsline {subsubsection}{Ease of Use}{35}{section*.20}
+\contentsline {subsubsection}{Ease of Use}{36}{section*.20}
 \contentsline {subsubsection}{Free Academic Licenses}{36}{section*.21}
 \contentsline {subsubsection}{Shared Space and Course Versioning}{36}{section*.22}
 \contentsline {subsection}{\numberline {4.3.3}RQ3: What challenges are related to the use of GitHub for education?}{37}{subsection.4.3.3}
-\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{37}{section*.24}
+\contentsline {subsubsection}{Shared Knowledge Base of Suggested Practices}{38}{section*.24}
 \contentsline {subsubsection}{Barriers to Entry}{38}{section*.25}
-\contentsline {subsubsection}{Support for Additional Formats}{38}{section*.26}
+\contentsline {subsubsection}{Support for Additional Formats}{39}{section*.26}
 \contentsline {subsubsection}{External Restrictions}{39}{section*.27}
-\contentsline {subsubsection}{Large-scale Management}{39}{section*.28}
+\contentsline {subsubsection}{Large-scale Management}{40}{section*.28}
 \contentsline {subsection}{\numberline {4.3.4}GitHub's Perspective}{40}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Follow-up Survey}{41}{subsection.4.3.5}
 \contentsline {section}{\numberline {4.4}Discussion}{42}{section.4.4}
@@ -70,15 +70,15 @@
 \contentsline {subsection}{\numberline {5.6.1}RQ1: What are computer science and software engineering student perceptions on the benefits of using GitHub for their courses?}{54}{subsection.5.6.1}
 \contentsline {subsection}{\numberline {5.6.2}RQ2: Will students face challenges related to the use of GitHub in their courses? If so, what are these challenges?}{63}{subsection.5.6.2}
 \contentsline {subsection}{\numberline {5.6.3}RQ3: What are student recommendations for instructors wishing to use GitHub in a course?}{67}{subsection.5.6.3}
-\contentsline {subsection}{\numberline {5.6.4}RQ4: From the student perspective, how does GitHub compare to traditional Learning Management Systems?}{71}{subsection.5.6.4}
+\contentsline {subsection}{\numberline {5.6.4}RQ4: From the student perspective, how does GitHub compare to traditional Learning Management Systems?}{72}{subsection.5.6.4}
 \contentsline {section}{\numberline {5.7}Validation Survey}{76}{section.5.7}
-\contentsline {section}{\numberline {5.8}Instructors' Perspectives}{76}{section.5.8}
+\contentsline {section}{\numberline {5.8}Instructors' Perspectives}{77}{section.5.8}
 \contentsline {subsection}{\numberline {5.8.1}Insights from the Course Instructor}{77}{subsection.5.8.1}
-\contentsline {subsection}{\numberline {5.8.2}Insights from Lab Instructors}{78}{subsection.5.8.2}
-\contentsline {section}{\numberline {5.9}Discussion}{80}{section.5.9}
-\contentsline {section}{\numberline {5.10}Limitations}{83}{section.5.10}
-\contentsline {subsection}{\numberline {5.10.1}Internal Threats to Validity}{83}{subsection.5.10.1}
-\contentsline {subsection}{\numberline {5.10.2}External Threats to Validity}{84}{subsection.5.10.2}
+\contentsline {subsection}{\numberline {5.8.2}Insights from Lab Instructors}{79}{subsection.5.8.2}
+\contentsline {section}{\numberline {5.9}Discussion}{81}{section.5.9}
+\contentsline {section}{\numberline {5.10}Limitations}{84}{section.5.10}
+\contentsline {subsection}{\numberline {5.10.1}Internal Threats to Validity}{84}{subsection.5.10.1}
+\contentsline {subsection}{\numberline {5.10.2}External Threats to Validity}{85}{subsection.5.10.2}
 \contentsline {subsection}{\numberline {5.10.3}Standards of Rigor}{85}{subsection.5.10.3}
 \contentsline {chapter}{\numberline {6}Discussion}{86}{chapter.6}
 \contentsline {section}{\numberline {6.1}The Viability of GitHub for Education}{86}{section.6.1}
